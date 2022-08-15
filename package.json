@@ -1,11 +1,11 @@
 {
-  "name": "cairn",
-  "version": "1.0.0",
+  "name": "runecairn",
+  "version": "0.0.1",
   "scripts": {},
   "browserslist": [
     "last 3 versions"
   ],
-  "author": "smcabrera",
+  "author": "cdipierro",
   "license": "MIT",
   "private": true,
   "dependencies": {},

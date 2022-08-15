@@ -3,10 +3,6 @@
     "types": ["character", "npc", "container"],
     "templates": {
       "actorBase": {
-        "hp": {
-          "value": 10,
-          "max": 10
-        },
         "abilities": {
           "STR": {
             "value": 10,
@@ -16,10 +12,36 @@
             "value": 10,
             "max": 10
           },
-          "WIL": {
+          "WIT": {
+            "value": 10,
+            "max": 10
+          },
+          "SPI": {
             "value": 10,
             "max": 10
           }
+        },
+        "attributes": {
+          "VIG": {
+            "value": 10,
+            "max": 10
+          },
+          "VIT": {
+            "value": 10,
+            "max": 10
+          },
+          "RES": {
+            "value": 10,
+            "max": 10
+          }
+        },
+        "def": {
+          "value": 10,
+          "max": 10
+        },
+        "hp": {
+          "value": 10,
+          "max": 10
         }
       }
     },
@@ -28,13 +50,14 @@
       "background": "",
       "biography": "",
       "deprived": false,
-      "gold": 0
+      "gold": 0,
+      "startingClass": ""
     },
 
     "npc": {
       "templates": ["base", "actorBase"],
       "description": "",
-      "armor": 0
+      "def": 0
     },
 
     "container": {

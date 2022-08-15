@@ -2,26 +2,26 @@
  * Extend the basic ActorSheet with some very simple modifications
  * @extends {ActorSheet}
  */
-export class CairnActorSheet extends ActorSheet {
+export class RunecairnActorSheet extends ActorSheet {
   /** @override */
   static get defaultOptions() {
     return mergeObject(super.defaultOptions, {
-      classes: ["cairn", "sheet", "actor"],
-      template: "systems/cairn/templates/actor/actor-sheet.html",
+      classes: ['runecairn', 'sheet', 'actor'],
+      template: 'systems/runecairn/templates/actor/actor-sheet.html',
       width: 480,
       height: 480,
       tabs: [
         {
-          navSelector: ".tabs",
-          contentSelector: ".content",
-          initial: "items",
+          navSelector: '.tabs',
+          contentSelector: '.content',
+          initial: 'items',
         },
       ],
     });
   }
 
   get template() {
-    const path = "systems/cairn/templates/actor";
+    const path = 'systems/runecairn/templates/actor';
     return `${path}/${this.actor.data.type}-sheet.html`;
   }
 
@@ -44,61 +44,61 @@ export class CairnActorSheet extends ActorSheet {
     }
 
     // Add inventory item
-    html.find(".item-create").click(this._onItemCreate.bind(this));
+    html.find('.item-create').click(this._onItemCreate.bind(this));
 
     // Update inventory item
-    html.find(".item-edit").click((ev) => {
-      const li = $(ev.currentTarget).parents(".cairn-items-list-row");
-      const item = this.actor.getOwnedItem(li.data("itemId"));
+    html.find('.item-edit').click((ev) => {
+      const li = $(ev.currentTarget).parents('.runecairn-items-list-row');
+      const item = this.actor.getOwnedItem(li.data('itemId'));
       item.sheet.render(true);
     });
 
     // Delete inventory item
-    html.find(".item-delete").click((ev) => {
-      const li = $(ev.currentTarget).parents(".cairn-items-list-row");
-      this.actor.deleteOwnedItem(li.data("itemId"));
+    html.find('.item-delete').click((ev) => {
+      const li = $(ev.currentTarget).parents('.runecairn-items-list-row');
+      this.actor.deleteOwnedItem(li.data('itemId'));
       li.slideUp(200, () => this.render(false));
     });
 
-    html.find(".roll-control").click(this._onRoll.bind(this));
+    html.find('.roll-control').click(this._onRoll.bind(this));
 
     // Rollable abilities
-    html.find(".resource-roll").click(this._onRollAbility.bind(this));
+    html.find('.resource-roll').click(this._onRollAbility.bind(this));
 
     // Rest restores HP
-    html.find("#rest-button").click(async (ev) => {
+    html.find('#rest-button').click(async (ev) => {
       // Someone DEPRIVED of a crucial need (e.g. food,water or warmth) cannot
       // benefit from RESTS
       if (!this.actor.data.data.deprived) {
         await this.actor.update({
-          "data.hp.value": this.actor.data.data.hp.max,
+          'data.hp.value': this.actor.data.data.hp.max,
         });
       }
     });
 
-    html.find("#restore-abilities-button").click(async (ev) => {
+    html.find('#restore-abilities-button').click(async (ev) => {
       if (!this.actor.data.data.deprived) {
         await this.actor.update({
-          "data.abilities.STR.value": this.actor.data.data.abilities.STR.max,
+          'data.abilities.STR.value': this.actor.data.data.abilities.STR.max,
         });
         await this.actor.update({
-          "data.abilities.DEX.value": this.actor.data.data.abilities.DEX.max,
+          'data.abilities.DEX.value': this.actor.data.data.abilities.DEX.max,
         });
         await this.actor.update({
-          "data.abilities.WIL.value": this.actor.data.data.abilities.WIL.max,
+          'data.abilities.WIL.value': this.actor.data.data.abilities.WIT.max,
         });
       }
     });
 
     html
-      .find(".cairn-item-title")
+      .find('.runecairn-item-title')
       .click((event) => this._onItemDescriptionToggle(event));
 
-    html.find("#die-of-fate-button").click(async (ev) => {
-      let roll = new Roll("1d6");
+    html.find('#die-of-fate-button').click(async (ev) => {
+      let roll = new Roll('1d6');
       roll.roll({ async: false }).toMessage({
         speaker: ChatMessage.getSpeaker({ actor: this.actor }),
-        flavor: "Die of Fate",
+        flavor: 'Die of Fate',
       });
     });
   }
@@ -141,7 +141,7 @@ export class CairnActorSheet extends ActorSheet {
     const dataset = element.dataset;
     if (dataset.roll) {
       const roll = new Roll(dataset.roll, this.actor.data.data);
-      const label = dataset.label ? `Rolling ${dataset.label}` : "";
+      const label = dataset.label ? `Rolling ${dataset.label}` : '';
       roll.roll({ async: false }).toMessage({
         speaker: ChatMessage.getSpeaker({ actor: this.actor }),
         flavor: label,
@@ -151,10 +151,10 @@ export class CairnActorSheet extends ActorSheet {
 
   _onItemDescriptionToggle(event) {
     event.preventDefault();
-    const boxItem = $(event.currentTarget).parents(".cairn-items-list-row");
-    const item = this.actor.items.get(boxItem.data("itemId"));
-    if (boxItem.hasClass("expanded")) {
-      let summary = boxItem.children(".item-description");
+    const boxItem = $(event.currentTarget).parents('.runecairn-items-list-row');
+    const item = this.actor.items.get(boxItem.data('itemId'));
+    if (boxItem.hasClass('expanded')) {
+      let summary = boxItem.children('.item-description');
       summary.slideUp(200, () => summary.remove());
     } else {
       let div = $(
@@ -163,7 +163,7 @@ export class CairnActorSheet extends ActorSheet {
       boxItem.append(div.hide());
       div.slideDown(200);
     }
-    boxItem.toggleClass("expanded");
+    boxItem.toggleClass('expanded');
   }
 
   _onRollAbility(event) {
@@ -172,12 +172,12 @@ export class CairnActorSheet extends ActorSheet {
     const dataset = element.dataset;
     if (dataset.roll) {
       const roll = new Roll(dataset.roll, this.actor.data.data);
-      const label = dataset.label ? `Rolling ${dataset.label}` : "";
+      const label = dataset.label ? `Rolling ${dataset.label}` : '';
       const rolled = roll.roll({ async: false });
 
       const formula = rolled._formula;
       const rolled_number = rolled.terms[0].results[0].result;
-      if (rolled.result === "0") {
+      if (rolled.result === '0') {
         rolled.toMessage({
           speaker: ChatMessage.getSpeaker({ actor: this.actor }),
           flavor: label,

@@ -1,4 +1,4 @@
-<form class="cairn" autocomplete="off">
+<form class="runecairn" autocomplete="off">
     <div class="charater-sheet-grid">
         <!-- Portrait -->
         <img class="portrait" src="{{actor.img}}" data-edit="img" title="{{actor.name}}" />
@@ -52,7 +52,7 @@
             </nav>
             <section class="content">
                 <div class="tab" data-group="primary" data-tab="items">
-                    {{> "systems/cairn/templates/parts/items-list.html" actor=actor}}
+                    {{> "systems/runecairn/templates/parts/items-list.html" actor=actor}}
                 </div>
                 <div class="tab" data-group="primary" data-tab="description">
                     {{ editor content=data.data.biography target="data.biography" button=true owner=owner

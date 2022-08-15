@@ -1,107 +1,113 @@
 {
-  "name": "cairn",
-  "title": "Cairn",
-  "description": "Cairn for FoundryVTT",
-  "version": "0.10.18",
+  "name": "runecairn",
+  "title": "Runecairn",
+  "description": "Runecairn for FoundryVTT",
+  "version": "0.0.1",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "9",
   "templateVersion": 2,
-  "author": "yochaigal",
-  "esmodules": ["module/cairn.js"],
-  "styles": ["css/cairn.css"],
+  "author": "cdipierro",
+  "esmodules": ["module/runecairn.js"],
+  "styles": ["css/runecairn.css"],
   "packs": [
     {
       "name": "armor",
       "label": "Armor",
       "path": "packs/armor.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "character-traits",
       "label": "Character Traits",
       "path": "packs/character-traits.db",
       "entity": "RollTable",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "expeditionary-gear",
       "label": "Expeditionary Gear",
       "path": "packs/expeditionary-gear.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "extra",
       "label": "Extra",
       "path": "packs/extra.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "gear-tables",
       "label": "Gear Tables",
       "path": "packs/gear-tables.db",
       "entity": "RollTable",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "macros",
       "label": "Macros",
       "path": "packs/macros.db",
       "entity": "Macro",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "monsters",
       "label": "Monsters",
       "path": "packs/monsters.db",
       "entity": "Actor",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "spellbooks",
       "label": "Spellbooks",
       "path": "packs/spellbooks.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "more-spellbooks",
       "label": "More Spellbooks",
       "path": "packs/more-spellbooks.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "tools",
       "label": "Tools",
       "path": "packs/tools.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "trinkets",
       "label": "Trinkets",
       "path": "packs/trinkets.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     },
     {
       "name": "weapons",
       "label": "Weapons",
       "path": "packs/weapons.db",
       "entity": "Item",
-      "system": "cairn"
+      "system": "runecairn"
     }
   ],
   "scripts": [],
-  "languages": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    }
+  ],
   "gridDistance": 5,
   "gridUnits": "ft",
   "primaryTokenAttribute": "hp",
   "license": "LICENSE.txt",
-  "manifest": "https://raw.githubusercontent.com/yochaigal/Cairn-FoundryVTT/master/system.json",
-  "download": "https://github.com/yochaigal/Cairn-FoundryVTT/releases/download/0.10.18/0.10.18.zip",
-  "url": "https://github.com/yochaigal/Cairn-FoundryVTT/"
+  "manifest": "https://raw.githubusercontent.com/yochaigal/Runecairn-FoundryVTT/master/system.json",
+  "download": "https://github.com/yochaigal/Runecairn-FoundryVTT/releases/download/0.10.18/0.10.18.zip",
+  "url": "https://github.com/yochaigal/Runecairn-FoundryVTT/"
 }

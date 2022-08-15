@@ -1,4 +1,4 @@
-<form class="cairn" autocomplete="off">
+<form class="runecairn" autocomplete="off">
     <div class="charater-sheet-grid">
         <!-- Portrait -->
         <img class="portrait" src="{{actor.img}}" data-edit="img" title="{{actor.name}}" />
@@ -48,7 +48,7 @@
         <!-- Armor and gold -->
         <div class="character-sheet-section-others">
             <div class="resource-counter stacked-counter">
-                <label for="data.armor">Armor</label>
+                <label for="data.def">Def</label>
                 <div class="stacked-input-wrapper">
                     <span>{{data.data.armor}}</span>
                 </div>
@@ -68,7 +68,7 @@
             </nav>
             <section class="content">
                 <div class="tab" data-group="primary" data-tab="items">
-                    {{> "systems/cairn/templates/parts/items-list.html" actor=actor}}
+                    {{> "systems/runecairn/templates/parts/items-list.html" actor=actor}}
                 </div>
                 <div class="tab" data-group="primary" data-tab="description">
                     {{ editor content=data.data.biography target="data.biography" button=true owner=owner
