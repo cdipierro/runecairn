@@ -1,0 +1,19 @@
+{
+  "_id": "Momd7NzQnx6otpB4",
+  "name": "Unflappable Endurance",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target does not take Fatigue from non-magical activities or become deprived until their next rest.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

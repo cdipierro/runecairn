@@ -1,0 +1,19 @@
+{
+  "_id": "Pcy2FhMKHwtOS4j0",
+  "name": "Illusory Landscape",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You can make one type of terrain appear like another.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

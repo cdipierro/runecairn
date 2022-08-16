@@ -1,0 +1,85 @@
+{
+  "_id": "sOUoUM7flJCcxreF",
+  "name": "Green Slime",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 3,
+      "max": 3
+    },
+    "abilities": {
+      "STR": {
+        "value": 16,
+        "max": 16
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 6,
+        "max": 6
+      }
+    },
+    "description": "<ul>\n<li>Large blobs of green slime that stick to walls and ceiling. Attack by dropping on top of their victims.</li>\n<li>The acid corrodes both metal and wood along with the carrier, but cannot affect stone. Consumed flesh becomes more green slime.</li>\n<li>Immune to all damage except fire. Once stuck on a victim, can only be removed if burned away.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Green Slime",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "sOUoUM7flJCcxreF",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "48Vmo1PUHdbbgqdH",
+      "name": "Acidic Touch",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d8k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

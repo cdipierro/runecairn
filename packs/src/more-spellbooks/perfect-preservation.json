@@ -1,0 +1,19 @@
+{
+  "_id": "LWMiS61QvQajwvvO",
+  "name": "Perfect Preservation",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A weapon you touch becomes immune to wear, mundane damage or elemental effects. The spell wears off after a day.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

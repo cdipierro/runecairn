@@ -1,0 +1,17 @@
+{
+  "name": "Manse",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A sturdy, furnished cottage appears for 12 hours. You can permit and forbid entry to it at will.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "i8UVjbIUw4Xpv5pJ"
+}

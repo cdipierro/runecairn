@@ -1,0 +1,19 @@
+{
+  "_id": "5fQD7lrFXgTbg4ae",
+  "name": "Devil's Comedian",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>WIL save or target laughs uncontrollably, unable to take any action.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

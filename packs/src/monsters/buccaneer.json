@@ -1,0 +1,89 @@
+{
+  "_id": "AIGL4uaVD51Y9Kkl",
+  "name": "Buccaneer",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 10,
+        "max": 14
+      },
+      "WIL": {
+        "value": 10,
+        "max": 12
+      }
+    },
+    "description": "<ul>\n<li>Outlaw sailors who raid coastal settlements and board other ships.<br></li>\n<li>Travel in large ship crews, only fighting in clear advantage, generally numerical.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Buccaneer",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "AIGL4uaVD51Y9Kkl",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "Zkrtrnhkh8xDvVet",
+      "name": "Scimitar",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 1700000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.iKJUnYmWOjnUnxP4"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/scimitar.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

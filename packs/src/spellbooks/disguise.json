@@ -1,0 +1,17 @@
+{
+  "name": "Disguise",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You may alter the appearance of one character at will as long as they remain humanoid. Attempts to duplicate other characters will seem uncanny.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "UZJ1wNfeRSFN8qLb"
+}

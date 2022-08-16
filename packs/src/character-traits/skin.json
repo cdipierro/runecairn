@@ -1,0 +1,155 @@
+{
+  "name": "Skin",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "1vZjbLxxYxaMzOq5",
+      "flags": {},
+      "type": 0,
+      "text": "Dark",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Gunq9YR16Vsye9vX",
+      "flags": {},
+      "type": 0,
+      "text": "Birthmark",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fw3bSp60UMdyxp6p",
+      "flags": {},
+      "type": 0,
+      "text": "Tanned",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IxQYIjvRlbTiqSvQ",
+      "flags": {},
+      "type": 0,
+      "text": "Pockmarked",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "knIm3XIarpyb0KRn",
+      "flags": {},
+      "type": 0,
+      "text": "Weathered",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "G8teyyKAxZO8sSWw",
+      "flags": {},
+      "type": 0,
+      "text": "Oily",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7ISjtf83xsNmZbSB",
+      "flags": {},
+      "type": 0,
+      "text": "Pale",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "x899nQ8lx3hBN2oq",
+      "flags": {},
+      "type": 0,
+      "text": "Perfect",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OGgcud66UbrJjx5s",
+      "flags": {},
+      "type": 0,
+      "text": "Rosy",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "fo9FeB6Vqmr4s2Tx",
+      "flags": {},
+      "type": 0,
+      "text": "Tattooed",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "9vUo7lzm8Ta3vdO1"
+}

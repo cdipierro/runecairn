@@ -1,0 +1,17 @@
+{
+  "name": "Pacify",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A creature near you has an aversion to violence.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "iAhFYSIr97d2aX76"
+}

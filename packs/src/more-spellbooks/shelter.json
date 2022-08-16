@@ -1,0 +1,19 @@
+{
+  "_id": "ebF55rlVXUo8fzNq",
+  "name": "Shelter",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Creates a standing edifice that can shelter up to 10 creatures, disappearing after 24 hours.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

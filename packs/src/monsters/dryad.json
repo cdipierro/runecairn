@@ -1,0 +1,107 @@
+{
+  "_id": "Agd70uiJbjDrsVyg",
+  "name": "Dryad",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 14,
+        "max": 14
+      }
+    },
+    "description": "<ul>\n<li>Shy, peaceful tree spirits whose manifest in a beautiful female form.<br></li>\n<li>Spiritually bound with a tree, may disappear by joining with the tree again.   Can’t go too far away from it and dies if the tree dies.<br></li>\n<li>Charm strangers that come near.   Charmed creatures mindlessly walk into the tree, disappearing forever if not rescued quickly.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Dryad",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "Agd70uiJbjDrsVyg",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "ncjd7uYsx7CPhyXm",
+      "name": "Unarmed",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d4",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "9OfKhJYrxHV3Futa",
+      "name": "Charm",
+      "type": "item",
+      "data": {
+        "description": "<p>A creature you can see treats you as a friend.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 1400001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.e2bqe6cDAE8DZPPm"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

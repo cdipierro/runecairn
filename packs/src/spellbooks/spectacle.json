@@ -1,0 +1,17 @@
+{
+  "name": "Spectacle",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A clearly unreal but impressive illusion of your choice appears, under your control. It may be up to the size of a palace and has full motion and sound.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "MkemeW1w6QfgnLw0"
+}

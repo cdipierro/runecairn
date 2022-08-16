@@ -1,0 +1,19 @@
+{
+  "_id": "28Y58AUGUCpq68sZ",
+  "name": "Gale",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You summon an impenetrable wall of energy up to 15ft wide.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

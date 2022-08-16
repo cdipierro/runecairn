@@ -1,0 +1,107 @@
+{
+  "_id": "x7SYnahbYPsKk5XL",
+  "name": "Golem, Stone",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 14,
+      "max": 14
+    },
+    "abilities": {
+      "STR": {
+        "value": 17,
+        "max": 17
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>10’ tall animated statues carved from pure stone.<br></li>\n<li>Immune to mundane attacks, fire, cold, and electricity.<br></li>\n<li>Emits a magic aura that slows the movement of nearby creatures.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Golem, Stone",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "x7SYnahbYPsKk5XL",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "lTZae8DfkRkNwQmN",
+      "name": "Stone Skin",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 3,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AjnPp8cG4Cg5HAR1"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/plate-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "qRsFKfbbGi6NTtl2",
+      "name": "Fists",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d10",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

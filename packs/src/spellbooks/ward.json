@@ -1,0 +1,17 @@
+{
+  "name": "Ward",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A silver circle 50ft across appears on the ground. Choose one species that cannot cross it.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "wItkYZat9mzqFVSe"
+}

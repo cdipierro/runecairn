@@ -1,0 +1,19 @@
+{
+  "_id": "j61e2WtK6csZbkpP",
+  "name": "Reverie",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Targets become dazed for a moment, as if lost in daydream.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

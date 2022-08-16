@@ -1,0 +1,17 @@
+{
+  "name": "Comprehend",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You become fluent in all languages for a short while.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "eOt9geKENQ1sloE4"
+}

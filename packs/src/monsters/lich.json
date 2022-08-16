@@ -1,0 +1,129 @@
+{
+  "_id": "7G0m5n5zDK8P1whn",
+  "name": "Lich",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 11,
+      "max": 11
+    },
+    "abilities": {
+      "STR": {
+        "value": 8,
+        "max": 8
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 18,
+        "max": 18
+      }
+    },
+    "description": "<ul>\n<li>Powerful wizards who refused death by turning themselves in soulless undead.</li>\n<li>Able to cast virtually any spell</li>\n<li>Critical Damage: Its touch paralyzes the victim (d8 DEX damage)</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Lich",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "7G0m5n5zDK8P1whn",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "nLRAk4KoXbyFPI2n",
+      "name": "Ancient Robes",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 1,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 500000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.WzodO3q615BFIi2X"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    },
+    {
+      "_id": "FUnXzSVoUb2Yxrye",
+      "name": "Dagger",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": null,
+        "damageFormula": "1d6",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.oBy7XRCKN2goXJUL"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/dagger.webp",
+      "effects": []
+    },
+    {
+      "_id": "NrF7tYuC2mY7YEAG",
+      "name": "Touch*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d4",
+        "numberOfUses": 0
+      },
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

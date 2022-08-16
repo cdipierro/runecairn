@@ -1,0 +1,133 @@
+{
+  "_id": "DDxriKThPhfbcw96",
+  "name": "Demon Knight",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 10,
+      "max": 10
+    },
+    "abilities": {
+      "STR": {
+        "value": 16,
+        "max": 16
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 12,
+        "max": 12
+      }
+    },
+    "description": "<ul>\n<li>Once holy warriors who fell to the temptation of dark powers that they now serve in undeath.   Rides nightmarish steeds into battle.<br></li>\n<li>Lesser undead creatures mindlessly follow their command.<br></li>\n<li>Their evil aura frightens anyone who comes into nearby range.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Demon Knight",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "DDxriKThPhfbcw96",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "VKYG6O6x3HYNIj8b",
+      "name": "Long Sword",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": null,
+        "damageFormula": "1d10",
+        "numberOfUses": 0
+      },
+      "sort": 700000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.3QXBolDzmtsAPAt6"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/two-handed-sword.webp",
+      "effects": []
+    },
+    {
+      "_id": "HDOnm5vyKyLre7QH",
+      "name": "Ancient Full Plate",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": 3,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AjnPp8cG4Cg5HAR1"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/plate-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "F7ICnQn1xYLy7HAS",
+      "name": "Unholy Symbol (Hatred when bathed in blood)",
+      "type": "item",
+      "data": {
+        "description": "<p>A creature develops a deep hatred of another creature or group and wishes to destroy them.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 3700001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.8h7vEiBMaMMfdRHl"
+        }
+      },
+      "img": "systems/runecairn/tokens/gear/holy-symbol.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

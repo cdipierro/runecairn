@@ -1,0 +1,19 @@
+{
+  "_id": "2OO4Q6I1LuDowTHZ",
+  "name": "Ghost Whisper",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You and a sympathetic ally are linked, able to converse in short sentences for an hour.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

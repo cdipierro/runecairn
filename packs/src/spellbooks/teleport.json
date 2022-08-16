@@ -1,0 +1,17 @@
+{
+  "name": "Teleport",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An object or person you can see is transported from one place to another in a 50ft radius.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "zFO1IKgeg2YSc1Fr"
+}

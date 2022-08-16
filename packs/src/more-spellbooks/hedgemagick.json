@@ -1,0 +1,19 @@
+{
+  "_id": "xILN3buV3h7QekJ8",
+  "name": "Hedgemagick",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You perform a minor magical trick (create flame, wind, light or sound).</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

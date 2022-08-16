@@ -1,0 +1,17 @@
+{
+  "name": "Auditory Illusion",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You create illusory sounds that seem to come from a direction of your choice.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "Z0pe0JiBqa02GmBH"
+}

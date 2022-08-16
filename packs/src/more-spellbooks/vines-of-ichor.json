@@ -1,0 +1,19 @@
+{
+  "_id": "hdUn2j7HRaCFarDt",
+  "name": "Vines of Ichor",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You spread sticky spiderwebs on the walls, floor and ceilings within a 20ft radius.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

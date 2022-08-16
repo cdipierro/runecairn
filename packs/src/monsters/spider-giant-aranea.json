@@ -1,0 +1,85 @@
+{
+  "_id": "H3DGo5eqFWGMPl8T",
+  "name": "Spider, Giant Aranea",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 3,
+      "max": 3
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 12,
+        "max": 12
+      },
+      "WIL": {
+        "value": 14,
+        "max": 14
+      }
+    },
+    "description": "<ul>\n<li>  6’ long, intelligent spiders of greenish-black coloration. Have an\nodd lump on the back, housing its large brain. Two front legs have\ndigits, allowing an aranea to grasp tools. Dwell in web-filled lairs\nwhere they conduct magical research.</li>\n<li>  Scared of fire, avoid using spells of such effect.</li>\n<li>  Creatures caught in webs are entangled and unable to move. Breaking\nfree requires an STR save.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Spider, Giant Aranea",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "H3DGo5eqFWGMPl8T",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "Vwy1bH7uLiGQvte3",
+      "name": "Bite",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

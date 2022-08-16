@@ -1,0 +1,107 @@
+{
+  "_id": "R5RvP5GhVHlYC4Or",
+  "name": "Lizard, Giant Horned Chameleon",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 5,
+      "max": 5
+    },
+    "abilities": {
+      "STR": {
+        "value": 14,
+        "max": 14
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 12,
+        "max": 12
+      }
+    },
+    "description": "<ul>\n<li>7&#39; long lizards that camouflage by changing the color of their scales.</li>\n<li>Use their camouflage to surprise victims.</li>\n<li>Can attack further away targets by grabbing them with their elongated tongue. The victim must save STR or be pulled to the lizard&#39;s mouth and bitten.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Lizard, Giant Horned Chameleon",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "R5RvP5GhVHlYC4Or",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "hfFBqUlKuquFygwr",
+      "name": "Horn",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 1,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 500000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.WzodO3q615BFIi2X"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    },
+    {
+      "_id": "UDTyAiAkGjkY3pzN",
+      "name": "Tongue & Bite*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d6k",
+        "numberOfUses": 0
+      },
+      "sort": 600000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

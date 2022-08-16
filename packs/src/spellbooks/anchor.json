@@ -1,0 +1,17 @@
+{
+  "name": "Anchor",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A strong wire sprouts from your arms, affixing itself to two points within 50ft on each side.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "kbC12lXFurP7VT2d"
+}

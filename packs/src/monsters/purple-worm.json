@@ -1,0 +1,103 @@
+{
+  "_id": "JU2MhXdyvY4iE0CN",
+  "name": "Purple Worm",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 15,
+      "max": 15
+    },
+    "abilities": {
+      "STR": {
+        "value": 18,
+        "max": 18
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 7,
+        "max": 7
+      }
+    },
+    "description": "<ul>\n<li>Gargantuan worms with bodies more than 100&#39; long and 10&#39; thick. Burrow in tunnels underground and surface to eat other creatures. Found in deserts and other drylands.</li>\n<li>Victims bitten by the worm must save STR or be swallowed whole. Anything inside the worm receives 3d6 acid damage each round.</li>\n<li>Critical Damage: The sting inflicts a highly lethal poison, dealing d8 extra STR damage.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Purple Worm",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "JU2MhXdyvY4iE0CN",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "wHJ5JWax8XPuoL8x",
+      "name": "Bite*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d8k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "gywXv7tAOM7pYHPi",
+      "name": "Sting*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d8",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

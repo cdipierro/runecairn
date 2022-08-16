@@ -1,0 +1,155 @@
+{
+  "name": "Face",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "MzwWERwt6dPitLeu",
+      "flags": {},
+      "type": 0,
+      "text": "Chiseled",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2Am4yosTRuRy3Huz",
+      "flags": {},
+      "type": 0,
+      "text": "Square",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "wFxJf2MAJTr33zPO",
+      "flags": {},
+      "type": 0,
+      "text": "Bony",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "onW3ojYs2OLVZNi5",
+      "flags": {},
+      "type": 0,
+      "text": "Sharp",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "b4tSw20jsme0Dqo0",
+      "flags": {},
+      "type": 0,
+      "text": "Sunken",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "072QVDkmt4EWvKg4",
+      "flags": {},
+      "type": 0,
+      "text": "Elongated",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EYn6n77eOA4YZkot",
+      "flags": {},
+      "type": 0,
+      "text": "Broken",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "uC3M7ySJtb4fdvbH",
+      "flags": {},
+      "type": 0,
+      "text": "Soft",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "MpDMe8ZhwHvjUGgK",
+      "flags": {},
+      "type": 0,
+      "text": "Rat-like",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "0W7JFmGPTiaFLGY9",
+      "flags": {},
+      "type": 0,
+      "text": "Round",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "g37FLMS5KIz3TKEV"
+}

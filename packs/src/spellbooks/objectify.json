@@ -1,0 +1,17 @@
+{
+  "name": "Objectify",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You become any inanimate object between the size of a grand piano and an apple.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "LPhrpvl0Tf40AxJd"
+}

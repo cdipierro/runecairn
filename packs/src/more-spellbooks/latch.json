@@ -1,0 +1,19 @@
+{
+  "_id": "lZxqIKefgMgwOaNL",
+  "name": "Latch",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An unlocked box, cabinet or door opens or closes at your command.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

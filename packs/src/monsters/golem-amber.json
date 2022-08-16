@@ -1,0 +1,111 @@
+{
+  "_id": "jsn4j173GMcZPZYR",
+  "name": "Golem, Amber",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 10,
+      "max": 10
+    },
+    "abilities": {
+      "STR": {
+        "value": 16,
+        "max": 16
+      },
+      "DEX": {
+        "value": 12,
+        "max": 12
+      },
+      "WIL": {
+        "value": 14,
+        "max": 14
+      }
+    },
+    "description": "<ul>\n<li>Artificial constructs made in the shape of giant felines. Created by wizards in a slow and complex process.<br></li>\n<li>Track without error, able to see invisible creatures nearby.<br></li>\n<li>Immune to mundane attacks, gas, and mind-controlling effects.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Golem, Amber",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "jsn4j173GMcZPZYR",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "h5TmG50mj9U43ufz",
+      "name": "Claws",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d8",
+        "numberOfUses": 0
+      },
+      "sort": 500001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.5DyRrtUtfOs8CATM"
+        }
+      },
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "ThVnyhG7LrZf48b9",
+      "name": "Amber Skin",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 3,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AjnPp8cG4Cg5HAR1"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/plate-mail.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

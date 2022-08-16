@@ -1,0 +1,374 @@
+{
+  "name": "Trinkets",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Trinkets Folder.",
+  "results": [
+    {
+      "text": "Incense",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ya5SZnmOLpm6wNpW",
+      "img": "systems/runecairn/tokens/gear/incense.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "54m0463mudiwpx5d",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Instrument",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "EkiWtWpP4KgCUswG",
+      "img": "systems/runecairn/tokens/gear/flute.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "5x0ncrsz7dvyx24x",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Face Paint",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "StQURYKFhQq0zCan",
+      "img": "systems/runecairn/tokens/gear/paint-brush.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "tkx7mlb93ka4lvmt",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Horn",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ZnGAMOtPqQdxrkGV",
+      "img": "systems/runecairn/tokens/gear/horn.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "vo5h37fxhpbcvnmx",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Fake Jewels",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2WV58PktCKNSCp0D",
+      "img": "systems/runecairn/tokens/gear/fake-jewels.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "61y4hsthosbo2z4n",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Dice Set",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "T6rjeullHFNNZGE5",
+      "img": "systems/runecairn/tokens/gear/dice.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "pdmnx33w5n9c1gvf",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Card Deck",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "uddRVEl3TBONGpDZ",
+      "img": "systems/runecairn/tokens/gear/deck.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "sqrczezzs6rhdbyn",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Twine",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "sFLGHon9T59w6plV",
+      "img": "systems/runecairn/tokens/gear/rope.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "mqn9utqby3joyzrk",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Whistle",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Bsoz33Jkds7ND5j6",
+      "img": "systems/runecairn/tokens/gear/whistle.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "r2nz9d45t4prz6hr",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Bottle",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PTfWp65BvzHRkAsH",
+      "img": "systems/runecairn/tokens/gear/bottle.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "c2dv0nsval30995b",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Lens",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "d6Y11FdtliKkMpfS",
+      "img": "systems/runecairn/tokens/gear/lenses.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "tdu8l5dojzkzb8ig",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Blank Book",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "BlCwqElFF5r89dNg",
+      "img": "systems/runecairn/tokens/gear/grimoire.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "we9i4dy95yntr3se",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "text": "Mirror",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "W474k8Hk1SaplXtl",
+      "img": "systems/runecairn/tokens/gear/mirror-(hand-sized%2C%20steel).webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "a76qxoy40cavgkek",
+      "flags": {},
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "text": "Small Bell",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ubTcpSjpVjMVTPJe",
+      "img": "systems/runecairn/tokens/gear/small-bell.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "dt8l7w38vzbl1cds",
+      "flags": {},
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "text": "Tar pot",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LJlKXqgGlHpKIyK4",
+      "img": "systems/runecairn/tokens/gear/honeypot.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "xzgnpzejwi7g2vkt",
+      "flags": {},
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "text": "Quill & Ink",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PUEmq5lDcy8ePMUR",
+      "img": "systems/runecairn/tokens/gear/writing-supply.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "fbrc96gxy4tpfiq5",
+      "flags": {},
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "text": "Salt Pack",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "k8QrJMAE4gXoBdlY",
+      "img": "systems/runecairn/tokens/gear/salt-pack.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "bcear3mm3zwsqp64",
+      "flags": {},
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "text": "Perfume",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ybM2eyLwA6Glv4aG",
+      "img": "systems/runecairn/tokens/gear/delicate-perfume.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "5otqjhfpadxyevzq",
+      "flags": {},
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "text": "Soap",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "bmZ1yGOIAQ3n2bQf",
+      "img": "systems/runecairn/tokens/gear/soap.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "zozzy31y6i0oqgd6",
+      "flags": {},
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "text": "Marbles",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ZQOgsrDK9FDEGHck",
+      "img": "systems/runecairn/tokens/gear/marbles.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "zkmkqencir9k4s6b",
+      "flags": {},
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "text": "Sponge",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "yMvPvfHPI9M5lBck",
+      "img": "systems/runecairn/tokens/gear/stone-tablet.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "f0zock96paprsmlf",
+      "flags": {},
+      "rangeL": 21,
+      "rangeH": 21
+    }
+  ],
+  "formula": "1d21",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "hCQXUCUDjKqEtXZF"
+}

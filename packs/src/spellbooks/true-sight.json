@@ -1,0 +1,17 @@
+{
+  "name": "True Sight",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You see through all nearby illusions.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "t1bgoHpWOMRbUxm4"
+}

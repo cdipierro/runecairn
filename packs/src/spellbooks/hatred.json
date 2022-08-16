@@ -1,0 +1,17 @@
+{
+  "name": "Hatred",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A creature develops a deep hatred of another creature or group and wishes to destroy them.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "Dfci2ps3Azz5Q3IC"
+}

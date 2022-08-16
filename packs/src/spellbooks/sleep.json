@@ -1,0 +1,17 @@
+{
+  "name": "Sleep",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A creature you can see falls into a light sleep.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "I1wx54HNx6XOnqKC"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Crossbow",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 2,
+    "damageFormula": "1d8",
+    "bulky": true,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/heavy-crossbow.webp",
+  "effects": [],
+  "_id": "mjddKpJ42HUs5GA7"
+}

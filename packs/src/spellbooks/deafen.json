@@ -1,0 +1,17 @@
+{
+  "name": "Deafen",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>All nearby creatures are deafened.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "Y4XrmyC2NVaH8DpR"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Primal Surge",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An creature rapidly evolves into a future version of its species.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "i93owALoJpKfBGGz"
+}

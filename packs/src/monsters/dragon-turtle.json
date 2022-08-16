@@ -1,0 +1,126 @@
+{
+  "_id": "HpdQTwZlKjyKwQqf",
+  "name": "Dragon Turtle",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 30,
+      "max": 30
+    },
+    "abilities": {
+      "STR": {
+        "value": 20,
+        "max": 20
+      },
+      "DEX": {
+        "value": 6,
+        "max": 6
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>Gargantuan sea monsters with the shell of a turtle and draconic features.   Lurk in deep oceans and can be mistaken for a small island when on the surface.<br></li>\n<li>Attack ships, sinking them to add any treasure to their massive underwater hoards.<br></li>\n<li>Breathes large clouds of steam, clogging visions and damaging all inside for d8 damage.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Dragon Turtle",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "HpdQTwZlKjyKwQqf",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "FbD58u4mXKhnXD8P",
+      "name": "Bite",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d10k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "dSU9FzCfbuKXqSY5",
+      "name": "Breath Steam (Large Clouds)",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "d8",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "ThqQLxI7ZNjEE4G3",
+      "name": "Hard Shell",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.laothZZRBETtgj8P",
+          "sheetClass": ""
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "SYSr3l8KTBG733Bb",
+  "name": "Thief's Bane",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An object appears trapped, even to an experienced thief.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

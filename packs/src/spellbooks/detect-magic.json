@@ -1,0 +1,17 @@
+{
+  "name": "Detect Magic",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You can see or hear nearby magical auras.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "F9iv9MP5mDJWNK0Z"
+}

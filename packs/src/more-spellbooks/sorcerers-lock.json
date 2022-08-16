@@ -1,0 +1,19 @@
+{
+  "_id": "PMwdAD45sdMcyCJh",
+  "name": "Sorcerer's Lock",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Any door (magical or otherwise) is held shut until you leave its vicinity.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

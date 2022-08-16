@@ -1,0 +1,68 @@
+{
+  "name": "Ranged Weapons",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Ranged Weapons Folder.",
+  "results": [
+    {
+      "text": "Bow",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "WbzWR96VASZYoiLh",
+      "img": "systems/runecairn/tokens/weapons/long-bow.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "r3ibtq5axasyfsic",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Crossbow",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "y0zWbq0pkhgk81ny",
+      "img": "systems/runecairn/tokens/weapons/heavy-crossbow.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "rml2sup6kuoq96d3",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Sling",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "0U0Dr0WQgoT1NaxK",
+      "img": "systems/runecairn/tokens/weapons/sling.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "uxplvetqgro050lq",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "5N6LJgpNqWirpm9T"
+}

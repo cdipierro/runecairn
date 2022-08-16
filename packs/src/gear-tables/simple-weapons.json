@@ -1,0 +1,68 @@
+{
+  "name": "Simple Weapons",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Simple Weapons Folder.",
+  "results": [
+    {
+      "text": "Dagger",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "W6b9hiEMQXKszxZS",
+      "img": "systems/runecairn/tokens/weapons/dagger.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "g57q2a6973ezde67",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Staff",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "5Ljc4rP8JZJlj7Ld",
+      "img": "systems/runecairn/tokens/weapons/staff.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "gyvq4qfn8pd5nslt",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Cudgel",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "bsjE03LdqF4ZeWir",
+      "img": "systems/runecairn/tokens/weapons/club.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "bx6or85aaur7zt3c",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "AGesBGEHNBV8mwuM"
+}

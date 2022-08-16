@@ -1,0 +1,391 @@
+{
+  "name": "Tools",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Tools Folder.",
+  "results": [
+    {
+      "text": "Glue",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "nZCdpXsiRmXm9gvg",
+      "img": "systems/runecairn/tokens/gear/bottle.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "85e5a53w3gouo02u",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Metal File",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "4S1V24cHQYmuo8xF",
+      "img": "systems/runecairn/tokens/gear/chisel.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "rk2hcz3b0e9hpud1",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Shovel",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LJPsVE5gZQO4wvrE",
+      "img": "systems/runecairn/tokens/gear/shovel.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "ir3x2lgzgocwbj0z",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Cook Pots",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "DMFQQFa7z1o7p17u",
+      "img": "systems/runecairn/tokens/gear/pan.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "j5cetea12it3wtw1",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Chalk",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "IvWiN5YofLa9yl4X",
+      "img": "systems/runecairn/tokens/gear/highlighter.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "vluqk9nqsabl9smv",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Chisel",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "qkUsZhQI8iOVtnVL",
+      "img": "systems/runecairn/tokens/gear/chisel.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "oflzrysaxvfr7bax",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Hand-Drill",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PqQyamBJ88ysCRXH",
+      "img": "systems/runecairn/tokens/gear/drill.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "dr180kdphu48368c",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Sealant",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "widkPQMZ26UoQUnF",
+      "img": "systems/runecairn/tokens/gear/gunpowder.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "evdi0ezf3mcc78b2",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Tongs",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "kXEKBGLptnFupt4P",
+      "img": "systems/runecairn/tokens/gear/grips.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "ppdkctuxq2ib7umn",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Net",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Gju0CjmA0fCaz2CT",
+      "img": "systems/runecairn/tokens/gear/net.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "vsysng4cvaq0w9j3",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Bucket",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "sBueG3ZgRRxnxCez",
+      "img": "systems/runecairn/tokens/gear/bucket.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "y23v1x073e99rfuu",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Hammer",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "oK2AhxNLAeEtHyC1",
+      "img": "systems/runecairn/tokens/gear/hammer-(small).webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "lc7py2sb8srqspl7",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "text": "Saw",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "6C7jrqogGNLZjqEp",
+      "img": "systems/runecairn/tokens/gear/saw.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "knz71k2q82amzqmx",
+      "flags": {},
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "text": "Nails",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "rjfnEPuvfZZqWdCy",
+      "img": "systems/runecairn/tokens/gear/nail.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "jknvz01lponp4c8z",
+      "flags": {},
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "text": "Grease",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "rYKAdbLsBEn767Tq",
+      "img": "systems/runecairn/tokens/gear/oil-flask.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "cuxktc5nzsgz3i0p",
+      "flags": {},
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "text": "Hourglass",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "vEWrlR29x0ydlFra",
+      "img": "systems/runecairn/tokens/gear/hourglass.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "dbjjcwfm315lhi0h",
+      "flags": {},
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "text": "Caltrops",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "yKfHUtAJgLpZaXsc",
+      "img": "systems/runecairn/tokens/gear/caltrop.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "rj65mkyh91cvudew",
+      "flags": {},
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "text": "Lantern",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "tsNp8wdOsdIbB4Sm",
+      "img": "systems/runecairn/tokens/gear/lantern.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "grmmq7pxr9p6xfqm",
+      "flags": {},
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "text": "Bellows",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "xwN1Z2lnrk0wTagk",
+      "img": "systems/runecairn/tokens/gear/bellows.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "zw7tm5l0oz3yh6ml",
+      "flags": {},
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "text": "Fishing Rod",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "zSttXIr05LF5UX8Z",
+      "img": "systems/runecairn/tokens/gear/fishing-rod.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "gbswxdcgl5gt100e",
+      "flags": {},
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "text": "Crowbar",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "juGLedPUBfgEW9Sz",
+      "img": "systems/runecairn/tokens/gear/crowbar.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "r7oi6fnaeecvdk46",
+      "flags": {},
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "text": "Padlock",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PW8pVTW04OJkDTZz",
+      "img": "systems/runecairn/tokens/gear/padlock-%26%20key.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "k19xbpg47vtuum28",
+      "flags": {},
+      "rangeL": 22,
+      "rangeH": 22
+    }
+  ],
+  "formula": "1d22",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "xBZoarBEVfLg97K7"
+}

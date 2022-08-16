@@ -1,0 +1,19 @@
+{
+  "_id": "uvMcjGTKBgh8fVzx",
+  "name": "Catsense",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target has heightened senses for the next hour, especially at night.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

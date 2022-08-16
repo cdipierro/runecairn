@@ -1,0 +1,19 @@
+{
+  "_id": "ikL2MITA3fvw6aJp",
+  "name": "Ice Ray",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Ice and snow flow from your fingerprints, dealing 1d8 damage (blast) in a straight line.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

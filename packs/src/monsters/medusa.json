@@ -1,0 +1,103 @@
+{
+  "_id": "fZPvIDFDk6MQSURn",
+  "name": "Medusa",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 12,
+        "max": 12
+      },
+      "WIL": {
+        "value": 16,
+        "max": 16
+      }
+    },
+    "description": "<ul>\n<li>Deadly magical creatures that look like women with snakes in place of hair.</li>\n<li>Gaze: Anyone who looks directly at the medusa&#39;s face must save WIL or be turned to stone. Averting eyes from the face prevents this effect, but impairs any damage dealt. </li>\n<li>Critical Damage: The snakes&#39; poison paralyzes the victim (d6 DEX damage)</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Medusa",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "fZPvIDFDk6MQSURn",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "6u0kRErBNNPH1wsf",
+      "name": "Snake Bites*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "wjOMi2gcNUA5eTYC",
+      "name": "Gaze (Save)",
+      "type": "item",
+      "data": {
+        "description": "<p>Gaze: Anyone who looks directly at the medusa&rsquo;s face must save WIL or be turned to stone. Averting eyes from the face prevents this effect, but impairs any damage dealt.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

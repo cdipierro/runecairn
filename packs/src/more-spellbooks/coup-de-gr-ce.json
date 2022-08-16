@@ -1,0 +1,19 @@
+{
+  "_id": "ZLuCh20Zg7k2UEk5",
+  "name": "Coup de Grâce",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An ally's next attack ignores armor and takes damage directly from their target's STR.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

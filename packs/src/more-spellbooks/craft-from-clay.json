@@ -1,0 +1,19 @@
+{
+  "_id": "jeOKGdEBU6BQLvtL",
+  "name": "Craft from Clay",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Any natural, earthen target is transformed (rock to mud, lava to rock, etc).</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

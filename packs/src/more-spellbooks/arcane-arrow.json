@@ -1,0 +1,19 @@
+{
+  "_id": "9T3KSwr1aDcZgvOe",
+  "name": "Arcane Arrow",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Green energy bursts from your fingers, dealing 1d6 damage and ignoring mundane armor.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

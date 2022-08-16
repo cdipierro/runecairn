@@ -1,0 +1,85 @@
+{
+  "name": "Extra",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Extra Folder.",
+  "results": [
+    {
+      "text": "Jar of Forest Ants",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "GR7MzNeYQiE3eYTP",
+      "img": "systems/runecairn/tokens/extra/ants.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "8sv3mom0yf6u03zc",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Fatigue",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Gpd8JvQWrWxAn79m",
+      "img": "systems/runecairn/tokens/extra/fatigue-alt.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "8ioi92urudkbk47z",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Keys",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "O33NeJ9aawwtUuyA",
+      "img": "systems/runecairn/tokens/extra/keys.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "ro77pgxmlztx6ytd",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Poisonous mushrooms",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "JikFnEVpf4D7ns0N",
+      "img": "systems/runecairn/tokens/extra/spotted-mushroom.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "dnoweoub6nvsjip9",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "RzCb0gIYV82D0VUn"
+}

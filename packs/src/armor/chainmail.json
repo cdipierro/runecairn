@@ -1,0 +1,19 @@
+{
+  "name": "Chainmail",
+  "permission": {
+    "default": 0
+  },
+  "type": "armor",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 2,
+    "bulky": false,
+    "armor": 2
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+  "effects": [],
+  "_id": "B0naZm8GOX3x222S"
+}

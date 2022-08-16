@@ -1,0 +1,17 @@
+{
+  "name": "Pit",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A pit 10ft wide and 10ft deep opens in the ground.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "31UXiIvzoXPQEd8Z"
+}

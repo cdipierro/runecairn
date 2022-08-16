@@ -1,0 +1,19 @@
+{
+  "_id": "RWBup0FbghOxNVk6",
+  "name": "Hoodwink Monster",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target monster makes a WIL save or treats you as an ally.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

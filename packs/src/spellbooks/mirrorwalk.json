@@ -1,0 +1,17 @@
+{
+  "name": "Mirrorwalk",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A mirror becomes a gateway to another mirror that you looked into today.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "Pe0ISvyqrGojnV1i"
+}

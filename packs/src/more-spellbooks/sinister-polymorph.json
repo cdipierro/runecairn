@@ -1,0 +1,19 @@
+{
+  "_id": "USInATCPti5Q1E8X",
+  "name": "Sinister Polymorph",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>WIL save or target is transformed into a harmless animal.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

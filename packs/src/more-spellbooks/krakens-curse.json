@@ -1,0 +1,19 @@
+{
+  "_id": "4Jt2zJTLzIg775Fd",
+  "name": "Kraken's Curse",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Tentacles grapple all within 20 ft, STR save to break free.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

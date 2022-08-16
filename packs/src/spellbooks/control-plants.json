@@ -1,0 +1,17 @@
+{
+  "name": "Control Plants",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Nearby plants and trees obey you and gain the ability to move at a slow pace.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "FKjXTGCafLVZUy9y"
+}

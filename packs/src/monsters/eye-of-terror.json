@@ -1,0 +1,217 @@
+{
+  "_id": "Q8tYL8ZJadzMk3QO",
+  "name": "Eye of Terror",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 12,
+      "max": 12
+    },
+    "abilities": {
+      "STR": {
+        "value": 12,
+        "max": 12
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 16,
+        "max": 16
+      }
+    },
+    "description": "<ul>\n<li style=\"box-sizing: border-box; margin: 0.25em 0px;\">Floating spheres with a large maw, one big central eye, and several small eyes on stalks scattered through the body. Scheming and greedy, lair deep underground.</li>\n<li style=\"box-sizing: border-box; margin: 0.25em 0px;\">Cancels any magic effect in a nearby range facing its central eye.</li>\n<li style=\"box-sizing: border-box; margin: 0.25em 0px;\">The eyestalks cast one of those spells each round randomly: (1-Charm, 2-Phobia, 3-Telekinesis, 4-Sleep, 5-Shuffle, 6-Vision).</li>\n</ul>",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Eye of Terror",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "Q8tYL8ZJadzMk3QO",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "Om0T3yG55BLuJx3g",
+      "name": "Bite",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d8k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "mNh4NDnbB9BjdJAJ",
+      "name": "Charm",
+      "type": "item",
+      "data": {
+        "description": "<p>A creature you can see treats you as a friend.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 1400001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.e2bqe6cDAE8DZPPm"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+      "effects": []
+    },
+    {
+      "_id": "GJrpsdtNRwDjEysG",
+      "name": "Phobia",
+      "type": "item",
+      "data": {
+        "description": "<p>A nearby creature becomes terrified of an object of your choice.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 6100001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.CsX5TxSdAvlhmdlA"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "effects": []
+    },
+    {
+      "_id": "oePagHgJD9tkkOs4",
+      "name": "Telekinesis",
+      "type": "item",
+      "data": {
+        "description": "<p>You may mentally move 1 item under 60lbs.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 8600001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.cg3gFfX5gJXOhjvE"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "effects": []
+    },
+    {
+      "_id": "ILzSNw5HYDOvgK13",
+      "name": "Sleep",
+      "type": "item",
+      "data": {
+        "description": "<p>A creature you can see falls into a light sleep.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 7300001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.lZMTA1sZTnSnjvvx"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "effects": []
+    },
+    {
+      "_id": "AXygoOTUdwT9hyc9",
+      "name": "Shuffle",
+      "type": "item",
+      "data": {
+        "description": "<p>Two creatures you can see instantly switch places.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 7200001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.cW5rLiFqqJL9ewf7"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "effects": []
+    },
+    {
+      "_id": "VrCJuiZP2y7M7EIW",
+      "name": "Vision",
+      "type": "item",
+      "data": {
+        "description": "<p>You completely control what a creature sees.</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 9300001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.SdqkLbmzraBi33BL"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

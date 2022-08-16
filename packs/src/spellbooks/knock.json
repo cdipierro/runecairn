@@ -1,0 +1,17 @@
+{
+  "name": "Knock",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A nearby mundane or magical lock unlocks – loudly.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "qAmjT0wr8XodtZqy"
+}

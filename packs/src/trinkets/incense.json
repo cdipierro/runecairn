@@ -1,0 +1,20 @@
+{
+  "_id": "4yMGi2nHhoYi8kVO",
+  "name": "Incense",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": null,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/incense.webp",
+  "effects": []
+}

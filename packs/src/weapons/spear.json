@@ -1,0 +1,20 @@
+{
+  "name": "Spear",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1,
+    "damageFormula": "1d8",
+    "bulky": false,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/spear.webp",
+  "effects": [],
+  "_id": "2Z807kXPnYap0hUU"
+}

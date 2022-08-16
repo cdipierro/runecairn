@@ -1,0 +1,17 @@
+{
+  "name": "X-Ray Vision",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You can see through walls, dirt, clothing, etc.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "CgDUS3G0KSS2hpuv"
+}

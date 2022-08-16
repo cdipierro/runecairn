@@ -1,0 +1,19 @@
+{
+  "_id": "WpKqy94r9dYKCh3g",
+  "name": "Hovering Protection",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A hovering, transparent disk materializes around an ally granting 1 Armor.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

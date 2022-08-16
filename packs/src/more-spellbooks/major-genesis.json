@@ -1,0 +1,19 @@
+{
+  "_id": "KdEB8TgGWlR15V2I",
+  "name": "Major Genesis",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Creates an object of nonliving stone or metal no greater than 5 cubic foot in size.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

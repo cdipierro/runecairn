@@ -1,0 +1,19 @@
+{
+  "_id": "sSul1Ml4XWeFazJF",
+  "name": "Ephemeral Audio",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Point to a spot. Anyone nearby hears a sound you choose at any volume.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Push/Pull",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An object of any size is pulled directly towards you or pushed directly away from you with the strength of one man.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "fi7RYeSGtRiEgphx"
+}

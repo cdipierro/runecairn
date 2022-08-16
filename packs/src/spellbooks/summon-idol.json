@@ -1,0 +1,17 @@
+{
+  "name": "Summon Idol",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A carved stone statue the size of a mule rises from the ground.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "U9VJ7F3VUncK1Skl"
+}

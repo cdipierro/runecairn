@@ -1,0 +1,19 @@
+{
+  "_id": "bKhvfHIGamPzOYs5",
+  "name": "Fire Curse",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An object you touch is imbued with a hidden flame-trap dealing 1d4+2 STR loss.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "hxyMOUfGGZC2q7KW",
+  "name": "Phantom Hound",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A ghostly canine (4 HP, bite (1d4)) obeys your commands for up to one hour.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

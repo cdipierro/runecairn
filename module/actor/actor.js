@@ -24,12 +24,21 @@ export class RunecairnActor extends Actor {
    */
   _prepareCharacterData(actorData) {
     const data = actorData.data;
-
+    if(actorData.items) {
+      console.log('Item Data: ', actorData.items);
+      actorData.items.filter((item) => {
+        console.log('In Filter: ', item, 'type:', item.type);
+        return item.type == 'armor' || item.type == 'item'
+      }).map(item => {
+        console.log(item, 'In Map: ', item.data.data.armor * item.data.data.equipped);
+        return item.data.data.armor * item.data.data.equipped
+      })
+    }
     data.def = actorData.items
       .filter((item) => item.type == 'armor' || item.type == 'item')
       .map((item) => item.data.data.armor * item.data.data.equipped)
       .reduce((a, b) => a + b, 0);
-
+    console.log('Result of def: ', data.def);
     data.slotsUsed = calcSlotsUsed(this.items);
 
     data.encumbered = data.slotsUsed >= 10;

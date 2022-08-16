@@ -1,0 +1,19 @@
+{
+  "_id": "co2oI9nFtgmZ5EQ1",
+  "name": "Uncurse",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A person or object you touch is freed from a curse or nefarious spell.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

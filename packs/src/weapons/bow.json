@@ -1,0 +1,20 @@
+{
+  "name": "Bow",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 2,
+    "damageFormula": "1d6",
+    "bulky": true,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/long-bow.webp",
+  "effects": [],
+  "_id": "iQFZEdDJKyjvGtY8"
+}

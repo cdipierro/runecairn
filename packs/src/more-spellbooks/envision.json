@@ -1,0 +1,19 @@
+{
+  "_id": "E0ZiK0mHwYvywzs5",
+  "name": "Envision",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Spies on a target you have met, even across vast distances. On a WIL save, they can feel your presence.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

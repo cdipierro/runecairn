@@ -1,0 +1,19 @@
+{
+  "_id": "xppADkIHeg4nutLw",
+  "name": "Scrying Ward",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>For 24 hours you become aware of any magical eavesdropping.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

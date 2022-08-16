@@ -1,0 +1,19 @@
+{
+  "_id": "KLLiGd88VfTxPIzv",
+  "name": "Cold Spray",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A spray of cold air does d6 damage 20ft in one direction.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

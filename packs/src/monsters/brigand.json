@@ -1,0 +1,129 @@
+{
+  "_id": "WMxcR2qBJq4xSbWX",
+  "name": "Brigand",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>Outlaws and mercenaries who raid settlements and ambush travelers.<br></li>\n<li>Travel in large groups of at least one detachment.<br></li>\n<li>For each detachment of regular brigands, there’s one leader who has chainmail (2 Armor) and a longsword (d8).<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Brigand",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "WMxcR2qBJq4xSbWX",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "ziGcqOofmwP1aCpb",
+      "name": "Gambeson",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 1,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.WzodO3q615BFIi2X"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    },
+    {
+      "_id": "EvcsFWRzeT2gD1Cg",
+      "name": "Shortsword",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 500000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "9QvwRLyZqnX39CwM",
+      "name": "Bow",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": null,
+        "damageFormula": "1d6",
+        "numberOfUses": 0
+      },
+      "sort": 1500000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.ZtxtYyErOFOUIxpS"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/long-bow.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

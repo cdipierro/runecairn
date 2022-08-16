@@ -1,0 +1,17 @@
+{
+  "name": "Slick",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Every surface in a 30ft radius becomes frictionless and slippery.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "hvBI6GuWQ2bnotbB"
+}

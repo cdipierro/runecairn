@@ -1,0 +1,102 @@
+{
+  "name": "One-Handed Melee",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the One-Handed Melee Folder.",
+  "results": [
+    {
+      "text": "Spear",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "5cw3Rco0GuLaHU4K",
+      "img": "systems/runecairn/tokens/weapons/spear.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "zy8i0dnbqby1oa53",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Sword",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "OX030vLMUCvV9o1S",
+      "img": "systems/runecairn/tokens/weapons/short-sword.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "vajz2ykl2lpvdf0h",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Mace",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "hJRBdfrfWzfxRoWM",
+      "img": "systems/runecairn/tokens/weapons/mace.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "r0gvu4fxw3srpy5p",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Axe",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "feuv8jLsCAoTbc72",
+      "img": "systems/runecairn/tokens/weapons/hand-axe.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "izp2vp80hk4v95g6",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Flail",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ncKIMmbUCB5H5pwE",
+      "img": "systems/runecairn/tokens/weapons/flail.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "0s98105xtzb9qs67",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    }
+  ],
+  "formula": "1d5",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "Dphyso4gCmgwBfLs"
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "ecSY9yacsp1ZvsnX",
+  "name": "Masquerade",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You assume the likeness of a similar creature you have seen.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

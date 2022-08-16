@@ -1,0 +1,425 @@
+{
+  "name": "Expeditionary Gear",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Expeditionary Gear Folder.",
+  "results": [
+    {
+      "text": "Dowsing Rod",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2EtfLFDv4dUrOpZH",
+      "img": "systems/runecairn/tokens/gear/water-diviner-stick.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "he0vkmjcrbhkp7lh",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Torch",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "KcnW4IzrYVKTLNLN",
+      "img": "systems/runecairn/tokens/gear/torches.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "3oeex8al6aiux600",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Spyglass",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "i83EyG5gHdg41yTt",
+      "img": "systems/runecairn/tokens/gear/spyglass.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "skdsfb2s91rd2wa8",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Rope",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "xXPuXGaGXnxCMIQT",
+      "img": "systems/runecairn/tokens/gear/rope.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "mmtdz09948oacxtk",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Sleeping Bag",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "seXC9VMSXOELwZCv",
+      "img": "systems/runecairn/tokens/gear/sleeping-bag.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "tvcvq8m1tjlnghsv",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Wolfsbane",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Ip32fgX9dysGqnkq",
+      "img": "systems/runecairn/tokens/gear/wolfsbane.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "hyklitx4ecvjk247",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Pole, 10ft",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "XOLKotDJs189Csgg",
+      "img": "systems/runecairn/tokens/gear/pole.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "o2b9dzw84l57p9df",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Waterskin",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Xa80XbBsfZJ91j4d",
+      "img": "systems/runecairn/tokens/gear/waterskin.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "tppbadoaopjqg7kw",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Spirit Ward",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "EKbzykSdU9gwE6W2",
+      "img": "systems/runecairn/tokens/gear/holy-symbol.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "169o1x3ma66kwjot",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Antitoxin",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "TmEPzEXLAckew3EK",
+      "img": "systems/runecairn/tokens/gear/holy-water-(vial).webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "agaiek2uejlfmoht",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Large Trap",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "5yQc5CLpHHetr65L",
+      "img": "systems/runecairn/tokens/gear/large-trap.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "r63zb67d3uyhq4qj",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Tinderbox",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "z0yN1STlDsXG6CG5",
+      "img": "systems/runecairn/tokens/gear/tinder-box.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "30oea6u89mx4751q",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "text": "Large Sack",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "3jgrFhioruvarBqu",
+      "img": "systems/runecairn/tokens/gear/sack.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "qo7dm7d42tsqx7j5",
+      "flags": {},
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "text": "Rations",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2z4ZZyTnTVhNYvEd",
+      "img": "systems/runecairn/tokens/gear/rations.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "mhyxvo75y55brdwm",
+      "flags": {},
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "text": "Repellent",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "rUqUS2bvnPfGnvTj",
+      "img": "systems/runecairn/tokens/gear/pouch.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "mmkhwepxsfvu7obz",
+      "flags": {},
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "text": "Air Bladder",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "h4hQBQh1Q0dSLJCQ",
+      "img": "systems/runecairn/tokens/gear/air-bladder.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "qij79m103memsyvz",
+      "flags": {},
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "text": "Pulley",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "De2AcdXbRHYc3VWz",
+      "img": "systems/runecairn/tokens/gear/pulley.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "snll558kakb9dj4j",
+      "flags": {},
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "text": "Lockpicks",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "gXu7SVvahEnAyHb5",
+      "img": "systems/runecairn/tokens/gear/thieves%E2%80%99-tools.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "12rpzdpvjw9ndo29",
+      "flags": {},
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "text": "Pick",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "tLINJieIpYih1HV4",
+      "img": "systems/runecairn/tokens/gear/pickaxe.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "z26atqzjdd8dp5ha",
+      "flags": {},
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "text": "Chain, 10ft",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "MQMpDCTDpFgVh67R",
+      "img": "systems/runecairn/tokens/gear/chain.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "2m7go21nqgre5poh",
+      "flags": {},
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "text": "Grappling Hook",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "YHHEZY9rdquhSSt5",
+      "img": "systems/runecairn/tokens/gear/grappling-hook.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "sfr7h1nz6tb3tyvh",
+      "flags": {},
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "text": "Bedroll",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "iJVnsifGBgk8Q86F",
+      "img": "systems/runecairn/tokens/gear/blanket.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "z3hsx1hkqqrun1t0",
+      "flags": {},
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "text": "Manacles",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "wSLXkZZOvxB4d07T",
+      "img": "systems/runecairn/tokens/gear/handcuff.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "c4pvnn44xww951hb",
+      "flags": {},
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "text": "Fire Oil",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "MKFtoQItuUEx7y7R",
+      "img": "systems/runecairn/tokens/gear/oil-flask.webp",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "8u2f5qqpxhnb1acd",
+      "flags": {},
+      "rangeL": 24,
+      "rangeH": 24
+    }
+  ],
+  "formula": "1d24",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "jSeeRc4hMMCzj9JC"
+}

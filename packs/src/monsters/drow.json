@@ -1,0 +1,155 @@
+{
+  "_id": "HaNCZDTtfjwEFg8U",
+  "name": "Drow",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 8,
+        "max": 8
+      },
+      "DEX": {
+        "value": 14,
+        "max": 14
+      },
+      "WIL": {
+        "value": 12,
+        "max": 12
+      }
+    },
+    "description": "<ul>\n<li>Elvish humanoids of dark skin and hair of silver and white.   Live deep in the underworld and feverishly worship strange deities.<br></li>\n<li>Can see perfectly in the dark, but are blinded by bright light.<br></li>\n<li>Wander in groups, frequently accompanied by giant spiders.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Drow",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "HaNCZDTtfjwEFg8U",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "3bBR43hA4GLKab1s",
+      "name": "Shortsword",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": null,
+        "damageFormula": "1d6",
+        "numberOfUses": 0
+      },
+      "sort": 1200000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.tPCULxQqJNCCJjOY"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/sword.webp",
+      "effects": []
+    },
+    {
+      "_id": "5guXkxwZfA9lG2Mi",
+      "name": "Web",
+      "type": "item",
+      "data": {
+        "description": "<p>Your wrists shoot thick webbing.</p>",
+        "quantity": 1,
+        "equipped": false,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 9600001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.UO456UC22BfwSXXb"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "effects": []
+    },
+    {
+      "_id": "wpMiwjbgaq0WHNTe",
+      "name": "Spider Climb",
+      "type": "item",
+      "data": {
+        "description": "<p>You can climb surfaces like a spider.</p>",
+        "quantity": 1,
+        "equipped": false,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 8100001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.Isa4aOU5vUOvzgEa"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "effects": []
+    },
+    {
+      "_id": "0CGTJryBt3itcFye",
+      "name": "Night Sphere",
+      "type": "item",
+      "data": {
+        "description": "<p>A 50ft wide sphere of darkness displaying the night sky appears before you.</p>",
+        "quantity": 1,
+        "equipped": false,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 5700001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.Fq8dLD8MoulcPqsx"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

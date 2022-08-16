@@ -1,0 +1,19 @@
+{
+  "_id": "8f6q6raq2PtpCElx",
+  "name": "Death's Breath",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You summon a poisonous cloud (d6 STR loss) you can control.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

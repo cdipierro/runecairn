@@ -1,0 +1,19 @@
+{
+  "_id": "F9HVFs5Qcsxbu04J",
+  "name": "Pyschic Touch",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You can hear target's surface thoughts, so long as you touch them.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

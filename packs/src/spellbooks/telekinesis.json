@@ -1,0 +1,17 @@
+{
+  "name": "Telekinesis",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You may mentally move 1 item under 60lbs.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "Bdf81HVV4Nb4Q5Mz"
+}

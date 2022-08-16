@@ -1,0 +1,221 @@
+{
+  "name": "Armor",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Armor Folder.",
+  "results": [
+    {
+      "text": "Kettle Helm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "YreOFpRDhKP6c9ds",
+      "img": "systems/runecairn/tokens/armor/kettle-hat.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "3kx5wo5pwr1xc63k",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Shield",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "MfQgtN4POeugSWYW",
+      "img": "systems/runecairn/tokens/armor/shield.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "cd8ny5meloi28ayq",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Chainmail",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "KcbQexiebYxIMwC4",
+      "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "epiq93p33ud08ywd",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Suit of Armor",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "QEw4Ykw1I3nXtQly",
+      "img": "systems/runecairn/tokens/armor/suit-armor.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "5njrk0hlzmit1oi1",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Barbut Helm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "gHZ7DElDJiWXULIu",
+      "img": "systems/runecairn/tokens/armor/barbut.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "twor9ianjwfdcntg",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Brigandine",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "UOp7ly2MYS6hxpqX",
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "f15rlrstjmns33vz",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Spangenhelm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "J0pqDwrbPQaZKP4m",
+      "img": "systems/runecairn/tokens/armor/spangenhelm.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "fc067u8nijmt8yxr",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Studded Leather",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "RKQcaWWGyXW5RRfz",
+      "img": "systems/runecairn/tokens/armor/studded-lather.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "rua2jhh0ukp1cscp",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Bascinet Helm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "dHj9hXe3i2OxBWjs",
+      "img": "systems/runecairn/tokens/armor/bascinet.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "odcliu0ymbcsbw1o",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Banded Mail",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "h1l7sm8UjmCfIDhm",
+      "img": "systems/runecairn/tokens/armor/banded-mail.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "wwpamhhwr6q4rvvl",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Gambeson",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "SexAJyXElrvcIz6o",
+      "img": "systems/runecairn/tokens/armor/padded-armor.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "vrp6ptub9enjia2b",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Plate Mail",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "yeYiimKV0Cs8c47y",
+      "img": "systems/runecairn/tokens/armor/plate-mail.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "x0nhsdxj5ox3u0g1",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    }
+  ],
+  "formula": "1d12",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "TKHQ1k3CRPcoSPyL"
+}

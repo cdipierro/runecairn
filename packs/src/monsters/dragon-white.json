@@ -1,0 +1,126 @@
+{
+  "_id": "mCau6ZhlRRm1SNqG",
+  "name": "Dragon, White",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 11,
+      "max": 11
+    },
+    "abilities": {
+      "STR": {
+        "value": 16,
+        "max": 16
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>Ferocious, primal dragons that dwell in cold regions. Hunt dangerous prey and keep their bodies as trophies.<br></li>\n<li>Effortlessly crosses snow and ice.<br></li>\n<li>Breathes freezing cold for d10 Damage to all in the blast, freezing any liquids and creating an icy surface.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Dragon, White",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "mCau6ZhlRRm1SNqG",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "DNztCqUd375AdjRD",
+      "name": "Bite",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d8k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "0xCp11zefUSOrMeO",
+      "name": "Breath Cold (Cone)",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d10",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "Rza9SpxZzjd6vrIT",
+      "name": "Scale Hide",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.laothZZRBETtgj8P",
+          "sheetClass": ""
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

@@ -1,0 +1,19 @@
+{
+  "_id": "dba9QcGr3a11uL9t",
+  "name": "Doppleganger",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You spawn 1d6 decoy duplicates of someone you touch. Decoys are dispelled with a touch.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

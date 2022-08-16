@@ -1,0 +1,19 @@
+{
+  "_id": "nk7wBaItAcuMLdB1",
+  "name": "Otherworldly Gate",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Opens a portal to another reality. It works in both directions.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

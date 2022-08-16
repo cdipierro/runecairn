@@ -1,0 +1,19 @@
+{
+  "_id": "1BWykaOo60n3pO6F",
+  "name": "Hide Mind",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>The next person to scry your mind or your whereabouts is fooled.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

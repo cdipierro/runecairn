@@ -1,0 +1,19 @@
+{
+  "_id": "vaCHfmmOzjITWMR0",
+  "name": "Word of Pain",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A single phrase from your lips does 1d12 blast damage. Affected targets are also deafened.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

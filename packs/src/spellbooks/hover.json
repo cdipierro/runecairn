@@ -1,0 +1,17 @@
+{
+  "name": "Hover",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An object hovers, frictionless, 2ft above the ground. It can hold up to one humanoid.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "JlyPMjwHHP2bBnIZ"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Astral Prison",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An object is frozen in time and space within an invulnerable crystal shell.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "kyzTKKvhLndDZ9V6"
+}

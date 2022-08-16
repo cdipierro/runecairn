@@ -1,0 +1,20 @@
+{
+  "name": "Saw",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": null,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/saw.webp",
+  "effects": [],
+  "_id": "Yh8g69kbzvxrerXz"
+}

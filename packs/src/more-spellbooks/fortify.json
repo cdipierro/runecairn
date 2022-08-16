@@ -1,0 +1,19 @@
+{
+  "_id": "R54aKl34BCVfcZBQ",
+  "name": "Fortify",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Damage from heat, ice, acid or electricity are impaired against a target for the next hour.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

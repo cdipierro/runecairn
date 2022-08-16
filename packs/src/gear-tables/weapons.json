@@ -1,0 +1,442 @@
+{
+  "name": "Weapons",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Weapons Folder.",
+  "results": [
+    {
+      "text": "Sword",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2P4m1l6xci4r99z4",
+      "img": "systems/runecairn/tokens/weapons/short-sword.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "r7ihgvb8tzm57tfn",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Spear",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PWIahy0mFQlcnnI5",
+      "img": "systems/runecairn/tokens/weapons/spear.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "nokyu21bwlit733z",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Hand Axe",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "N2QvPLa3WbGOJwal",
+      "img": "systems/runecairn/tokens/weapons/hand-axe.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "9qdml2p97upwt6hn",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Dagger",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "nAo0qBkRHFqfeqaq",
+      "img": "systems/runecairn/tokens/weapons/dagger.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "labtlywfvzncux23",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "War Hammer",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "cwvzbUOAbgzPuLHA",
+      "img": "systems/runecairn/tokens/weapons/war-hammer.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "43o67vnipymoz9ih",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Scimitar",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "8wqRCym2VEQp3WRi",
+      "img": "systems/runecairn/tokens/weapons/scimitar.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "0vwqkqvdmh5yjlpn",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Mace",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "wP5vYQAhzJfGtXWJ",
+      "img": "systems/runecairn/tokens/weapons/mace.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "znff194l1t2t4wut",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Whip",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "buc0po7auXqP7MNj",
+      "img": "systems/runecairn/tokens/weapons/whip.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "2jx1k0p6pdajqdzp",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Cestus",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ryItmeCqUSBbOEzH",
+      "img": "systems/runecairn/tokens/weapons/cestus.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "efezu93k5t8qdzpt",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Sling",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "6tPsUGyJiPpcd7Ra",
+      "img": "systems/runecairn/tokens/weapons/sling.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "6e1hr0ds1t7u2hq2",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Cudgel",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "zUBr29ifsixg5C4M",
+      "img": "systems/runecairn/tokens/weapons/club.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "4ti06ip70f43tnv0",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Morning Star",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "nvChrZRGGQGan3Cy",
+      "img": "systems/runecairn/tokens/weapons/heavy-flail.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "bmzgxf7b0wwpo9d7",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "text": "Axe",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "OmljBYfLZhxGEBuE",
+      "img": "systems/runecairn/tokens/weapons/hand-axe.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "jwzc455r8ghda9qz",
+      "flags": {},
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "text": "Polearm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ZpcztiFnGj3GG7nt",
+      "img": "systems/runecairn/tokens/weapons/polearm.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "twsk6o192sytysgf",
+      "flags": {},
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "text": "Flail",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "4wiRMEOxp1VWD0gU",
+      "img": "systems/runecairn/tokens/weapons/flail.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "rokrwme377ielap3",
+      "flags": {},
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "text": "Bolas",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "StaYzJWiaWRvEz6g",
+      "img": "systems/runecairn/tokens/weapons/bolas.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "5f3u3hwn3dssz9c9",
+      "flags": {},
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "text": "Halberd",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "CtKfL5XxB4j8O500",
+      "img": "systems/runecairn/tokens/weapons/halberd.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "emu6smqkyeztnzm0",
+      "flags": {},
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "text": "Blowgun",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "IkQFBjyJzSn3dlHM",
+      "img": "systems/runecairn/tokens/weapons/blowgun.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "17i341jtsy8rm9rl",
+      "flags": {},
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "text": "Staff",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "cEj1w93WOKBuqx3z",
+      "img": "systems/runecairn/tokens/weapons/staff.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "jbc18sm2aag3135b",
+      "flags": {},
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "text": "Long Sword",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "dqOySroo6UgZnMwd",
+      "img": "systems/runecairn/tokens/weapons/two-handed-sword.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "kqf39vk76b83thio",
+      "flags": {},
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "text": "Bow",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "41wtzfrzvhXEoRT8",
+      "img": "systems/runecairn/tokens/weapons/long-bow.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "2vlqd1qoe7mve42h",
+      "flags": {},
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "text": "Broadsword",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "7aJVy2MWmKYQvp7Z",
+      "img": "systems/runecairn/tokens/weapons/broadsword.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "dietxp5owoiawumf",
+      "flags": {},
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "text": "Crossbow",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "u33SQoo89jF1Wjbz",
+      "img": "systems/runecairn/tokens/weapons/heavy-crossbow.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "mien3s97oshrvwx9",
+      "flags": {},
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "text": "Dart",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LExlPgwgifskAp92",
+      "img": "systems/runecairn/tokens/weapons/dart.webp",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "fgb129nr9ehcx1zr",
+      "flags": {},
+      "rangeL": 24,
+      "rangeH": 24
+    },
+    {
+      "text": "Javelin",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "P8D7kbBhuUL2DFty",
+      "img": "systems/runecairn/tokens/weapons/javelin.webp",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "c693vrkc6073rm0n",
+      "flags": {},
+      "rangeL": 25,
+      "rangeH": 25
+    }
+  ],
+  "formula": "1d25",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "apBwEk2VMRvx3BkF"
+}

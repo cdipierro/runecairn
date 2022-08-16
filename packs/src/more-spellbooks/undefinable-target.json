@@ -1,0 +1,19 @@
+{
+  "_id": "FfHvfNJF7b8p4HAh",
+  "name": "Undefinable Target",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An ally becomes immune to mundane ranged attacks for one round.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

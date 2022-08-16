@@ -1,0 +1,19 @@
+{
+  "_id": "p94ZozW09H5nUYpQ",
+  "name": "Orb of Ignus",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You control a floating ball of fire (1d8 damage) for a short while.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

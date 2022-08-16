@@ -1,0 +1,17 @@
+{
+  "name": "Disassemble",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Any of your body parts may be detached and reattached at will, without causing pain or damage. You can still control them.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "E8vwECW4aGhtuNHq"
+}

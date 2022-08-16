@@ -1,0 +1,19 @@
+{
+  "_id": "PvQ4I1DICDQhaSzK",
+  "name": "Extraplanar Convocation",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Summons any extraplanar being onto your plane. It holds no loyalty towards you or your allies.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

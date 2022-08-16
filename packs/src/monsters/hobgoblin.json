@@ -1,0 +1,111 @@
+{
+  "_id": "XUSmd7QANu5HMA7y",
+  "name": "Hobgoblin",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 14,
+        "max": 14
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>Large and burly relatives of goblins. Dwell in underground fortresses, but frequently seek victims above ground.</li>\n<li>Highly lawful and militarized culture, follow orders without question.</li>\n<li>Trained to fight together, damage dealt is enhanced if an ally is also engaged with the same enemy.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Hobgoblin",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "XUSmd7QANu5HMA7y",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "3q49kq5GCpFtuD8q",
+      "name": "Chainmail",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 600000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.XUSozi5cljs4LWmf"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "Gxaalp5gJUicj0tN",
+      "name": "Mace",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": null,
+        "damageFormula": "1d8",
+        "numberOfUses": 0
+      },
+      "sort": 800000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.iYxg3jAWByP4NKfn"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/mace.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

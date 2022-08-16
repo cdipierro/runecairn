@@ -1,0 +1,19 @@
+{
+  "_id": "buLgiTJhx4pfKwdy",
+  "name": "Sinister Flame",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target's palms are lined with flames (1d4+1 STR loss) for one minute.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

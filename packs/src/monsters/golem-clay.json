@@ -1,0 +1,107 @@
+{
+  "_id": "GiI5BILOTc89MkUx",
+  "name": "Golem, Clay",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 11,
+      "max": 11
+    },
+    "abilities": {
+      "STR": {
+        "value": 15,
+        "max": 15
+      },
+      "DEX": {
+        "value": 7,
+        "max": 7
+      },
+      "WIL": {
+        "value": 8,
+        "max": 8
+      }
+    },
+    "description": "<ul>\n<li>8’ tall humanoid statues made of baked clay and animated by dark magics.<br></li>\n<li>Immune to mundane attacks and fire.   Resistant to weapon damage that is not bludgeoning.<br></li>\n<li>Critical Damage: Inflicts a curse on the victim, STR cannot be healed until the curse is lifted.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Golem, Clay",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "GiI5BILOTc89MkUx",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "cYcdFIljfy9zw3KH",
+      "name": "Clay Skin",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 600000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.XUSozi5cljs4LWmf"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "b1ruwNTFtNc74sIH",
+      "name": "Fists*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d8",
+        "numberOfUses": 0
+      },
+      "sort": 700000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

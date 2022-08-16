@@ -1,0 +1,19 @@
+{
+  "_id": "eYc6HsGsKBa5jEaG",
+  "name": "Bewildering Fog",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A hazy fog surrounds you in a radius of 20ft. Attacks within the mist are impaired.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Masquerade",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A character’s appearance and voice becomes identical to those of a character you touch.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "1WWbLQTaNzDqHo8l"
+}

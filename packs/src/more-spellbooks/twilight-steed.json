@@ -1,0 +1,19 @@
+{
+  "_id": "yKdiaFiMyYyrnp00",
+  "name": "Twilight Steed",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Summons an arcane steed that never tires, but dissipates within daylight.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

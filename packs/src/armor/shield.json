@@ -1,0 +1,19 @@
+{
+  "name": "Shield",
+  "permission": {
+    "default": 0
+  },
+  "type": "armor",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1,
+    "bulky": false,
+    "armor": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/armor/shield.webp",
+  "effects": [],
+  "_id": "7r2YpGYPQI2SarO3"
+}

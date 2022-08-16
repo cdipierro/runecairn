@@ -1,0 +1,20 @@
+{
+  "name": "Rope",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": 0,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/rope.webp",
+  "effects": [],
+  "_id": "HWwFxMbKrE6yQjRp"
+}

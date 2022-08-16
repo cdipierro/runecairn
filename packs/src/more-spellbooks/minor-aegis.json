@@ -1,0 +1,19 @@
+{
+  "_id": "Bonvi7ZCPHSJW2tE",
+  "name": "Minor Aegis",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A target you touch ignores the next instance of harm from a specific source.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,103 @@
+{
+  "_id": "zlSMKSJmEdrnG2ws",
+  "name": "Shambling Mound",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 9,
+      "max": 9
+    },
+    "abilities": {
+      "STR": {
+        "value": 15,
+        "max": 15
+      },
+      "DEX": {
+        "value": 8,
+        "max": 8
+      },
+      "WIL": {
+        "value": 8,
+        "max": 8
+      }
+    },
+    "description": "<ul>\n<li>  Plant monsters with the rough shape of a 9&#39; tall humanoid made of\nslimy vegetation. Dwell in dark swamps and damp undergrounds.</li>\n<li>  Damage received from weapons is impaired.</li>\n<li>  Entagles its victims to suffocate them in the roots and tendrils of\nits body.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Shambling Mound",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "zlSMKSJmEdrnG2ws",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "W4dR5v01LsFwLEBi",
+      "name": "Fists",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d8k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "xYI7AyflUTkzIQDp",
+      "name": "Entagling Roots*",
+      "type": "item",
+      "data": {
+        "description": "<p>Entagles its victims to suffocate them in the roots and tendrils of its body. (STR or DEX Save to avoid).</p>",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

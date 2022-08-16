@@ -1,0 +1,20 @@
+{
+  "name": "Waterskin",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": null,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/waterskin.webp",
+  "effects": [],
+  "_id": "S8LXordsc5CQfrIr"
+}

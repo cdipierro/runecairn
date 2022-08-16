@@ -1,0 +1,22 @@
+{
+  "_id": "TNRpt6n5iNVF8fBm",
+  "name": "Small Bell",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": 0,
+    "damageFormula": "",
+    "numberOfUses": 0,
+    "bulky": false,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/small-bell.webp",
+  "effects": []
+}

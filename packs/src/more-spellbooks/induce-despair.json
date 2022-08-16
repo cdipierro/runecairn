@@ -1,0 +1,19 @@
+{
+  "_id": "Zf4TKW551rLb0mIh",
+  "name": "Induce Despair",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target must pass a WIL save or its attacks are impaired.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

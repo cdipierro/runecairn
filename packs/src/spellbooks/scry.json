@@ -1,0 +1,17 @@
+{
+  "name": "Scry",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You can see through the eyes of a creature you touched earlier today.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "62IaPJOUrU8WmQCk"
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Morning Star",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1,
+    "damageFormula": "1d8",
+    "bulky": true,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/heavy-flail.webp",
+  "effects": [],
+  "_id": "RxTsXCngo0jx1ExT"
+}

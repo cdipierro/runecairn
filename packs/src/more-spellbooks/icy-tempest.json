@@ -1,0 +1,19 @@
+{
+  "_id": "7uiFWgOjNuzplZfc",
+  "name": "Icy Tempest",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Hail deals 1d12 damage in a 20ft radius.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

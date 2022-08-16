@@ -1,0 +1,19 @@
+{
+  "_id": "xb3B4uo0i2hXdaPq",
+  "name": "Summon Elemental",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A being of fire, wire, earth, or wind manifests from available matter to perform a single task for the caster. It follows this command against its will.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

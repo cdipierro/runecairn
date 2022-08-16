@@ -1,0 +1,155 @@
+{
+  "name": "Physique",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "YSnm91c1fMB9LfGp",
+      "flags": {},
+      "type": 0,
+      "text": "Statuesque",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "kfv6mWfdzCOFr7MQ",
+      "flags": {},
+      "type": 0,
+      "text": "Brawny",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "RPNjSfMCk3YKBixZ",
+      "flags": {},
+      "type": 0,
+      "text": "Towering",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "hWqtJ2A4c1sNtWiM",
+      "flags": {},
+      "type": 0,
+      "text": "Stout",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "9eyM2SA7P523b0n3",
+      "flags": {},
+      "type": 0,
+      "text": "Rugged",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2Y6FuaY8S5QTY17Y",
+      "flags": {},
+      "type": 0,
+      "text": "Athletic",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "o6eHPqk1AyC95euq",
+      "flags": {},
+      "type": 0,
+      "text": "Lanky",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "yw3IaEiplLyj4et0",
+      "flags": {},
+      "type": 0,
+      "text": "Short",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JQGBvEMGt7NXtIRs",
+      "flags": {},
+      "type": 0,
+      "text": "Scrawny",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vmefwb3WtZtHeTew",
+      "flags": {},
+      "type": 0,
+      "text": "Flabby",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d10",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "YbQzAXNw54zq4LOn"
+}

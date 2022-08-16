@@ -1,0 +1,19 @@
+{
+  "_id": "ecL5v4UrZ2cO5s30",
+  "name": "Chilling Graze",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target loses 1d4+1 STR and is deprived.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

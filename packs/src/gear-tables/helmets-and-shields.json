@@ -1,0 +1,85 @@
+{
+  "name": "Helmets and Shields",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Helmets and Shields Folder.",
+  "results": [
+    {
+      "text": "Barbut Helm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "90P9PoMKbsILYGD7",
+      "img": "systems/runecairn/tokens/armor/barbut.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "ukkbvofsd8wael5t",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Bascinet Helm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "bZ1ADPHKO6iFdYbl",
+      "img": "systems/runecairn/tokens/armor/bascinet.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "4p92mg75frpz2gpo",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Spangenhelm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ncDm6NeV8zel27AS",
+      "img": "systems/runecairn/tokens/armor/spangenhelm.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "1xb8mqj6cn8d2twe",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Shield",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PoP8QPoB7WtKNp9v",
+      "img": "systems/runecairn/tokens/armor/shield.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "p55f278nz0fqjz28",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    }
+  ],
+  "formula": "1d4",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ds4kAVIgwEkGFQrK"
+}

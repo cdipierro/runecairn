@@ -1,0 +1,17 @@
+{
+  "name": "Swarm",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You become a swarm of crows, rats, or piranhas. You can only be harmed by blast attacks.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "bgZbst28ACRpQfCD"
+}

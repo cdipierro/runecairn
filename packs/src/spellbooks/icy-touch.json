@@ -1,0 +1,17 @@
+{
+  "name": "Icy Touch",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A thick ice layer spreads across a touched surface, up to 10ft in radius.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "lt6ClKWJ823Dd2sE"
+}

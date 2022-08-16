@@ -1,0 +1,17 @@
+{
+  "name": "Widget",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A primitive version of a drawn tool or item appears before you, and disappears after a short time.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "HkHOGMKuD2KRJ86v"
+}

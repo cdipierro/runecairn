@@ -1,0 +1,19 @@
+{
+  "_id": "AR7vdUDghtiKIW22",
+  "name": "Blazing Defense",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You manifest a shield of flame (+1 Armor, 1d6 damage). Fire cannot hurt you.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

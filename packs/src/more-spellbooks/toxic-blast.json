@@ -1,0 +1,19 @@
+{
+  "_id": "gkBGIHvlcA0D1rBC",
+  "name": "Toxic Blast",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A small orb of acid deals 1d6 blast damage to a target.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

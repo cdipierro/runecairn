@@ -1,0 +1,19 @@
+{
+  "_id": "623Gskzo6kMkp26V",
+  "name": "Astral Step",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You and anyone touching you instantly transport to a known location you have been to before.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

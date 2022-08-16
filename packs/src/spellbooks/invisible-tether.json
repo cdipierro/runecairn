@@ -1,0 +1,17 @@
+{
+  "name": "Invisible Tether",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Two objects within 10ft of each other cannot be moved more than 10ft apart.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "GFKmeP8rq1odLhZd"
+}

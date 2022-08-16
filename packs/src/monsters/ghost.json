@@ -1,0 +1,107 @@
+{
+  "_id": "SuPF9kSGGZEBWV7f",
+  "name": "Ghost",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 10,
+      "max": 10
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 10,
+        "max": 10
+      },
+      "WIL": {
+        "value": 14,
+        "max": 14
+      }
+    },
+    "description": "<ul>\n<li>Incorporeal spirits of the restless dead.<br></li>\n<li>Can possess victims that fail a WIL save, taking control of their bodies.<br></li>\n<li>Critical damage: Drains the victim’s life force (d6 extra STR damage).<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Ghost",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "SuPF9kSGGZEBWV7f",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "EWSKs8E4ckOjJinD",
+      "name": "Draining Touch*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d6",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "Ck9XTzWjQshuXzLw",
+      "name": "Ethereal Being (vs Non-Magical)",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 3,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 200000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.AjnPp8cG4Cg5HAR1"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/plate-mail.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

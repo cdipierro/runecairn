@@ -1,0 +1,20 @@
+{
+  "name": "Nails",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": null,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/nail.webp",
+  "effects": [],
+  "_id": "d60iRsE4AiCqHMOk"
+}

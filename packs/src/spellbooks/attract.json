@@ -1,0 +1,17 @@
+{
+  "name": "Attract",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Two objects are strongly magnetically attracted to each other if they come within 10 feet.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "R446KCEYPYbG9mRp"
+}

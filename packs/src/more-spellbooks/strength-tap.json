@@ -1,0 +1,19 @@
+{
+  "_id": "dBrciRrViRbxvN5o",
+  "name": "Strength Tap",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A target you touch loses 1d6 STR, which is transferred to you (up to your max STR).</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,7 +1,11 @@
 {
   "name": "runecairn",
   "version": "0.0.1",
-  "scripts": {},
+  "scripts": {
+    "build:clean": "gulp cleanPacks",
+    "build:db": "gulp compilePacks",
+    "build:json": "gulp extractPacks"
+  },
   "browserslist": [
     "last 3 versions"
   ],
@@ -10,6 +14,13 @@
   "private": true,
   "dependencies": {},
   "devDependencies": {
-    "standard": "^16.0.3"
+    "fs": "^0.0.1-security",
+    "gulp": "^4.0.2",
+    "merge-stream": "^2.0.0",
+    "nedb": "^1.8.0",
+    "path": "^0.12.7",
+    "standard": "^16.0.3",
+    "through2": "^4.0.2",
+    "yargs": "^17.5.1"
   }
 }

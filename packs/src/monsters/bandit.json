@@ -1,0 +1,89 @@
+{
+  "_id": "ZDfLyzBNBwF1VdMl",
+  "name": "Bandit",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 10,
+        "max": 10
+      },
+      "DEX": {
+        "value": 14,
+        "max": 14
+      },
+      "WIL": {
+        "value": 10,
+        "max": 10
+      }
+    },
+    "description": "<ul>\n<li>Thieves who will value money over anything.<br></li>\n<li>Use disguises, stealth, and trickery to surprise victims.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Bandit",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "ZDfLyzBNBwF1VdMl",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "tC4o6O9fFavkSyoe",
+      "name": "Dagger",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": null,
+        "damageFormula": "1d6",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.oBy7XRCKN2goXJUL"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/dagger.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

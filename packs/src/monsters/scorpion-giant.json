@@ -1,0 +1,125 @@
+{
+  "_id": "pIU7uqPjbivZDP8E",
+  "name": "Scorpion, Giant",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 12,
+        "max": 12
+      },
+      "DEX": {
+        "value": 12,
+        "max": 12
+      },
+      "WIL": {
+        "value": 8,
+        "max": 8
+      }
+    },
+    "description": "<ul>\n<li>  Huge arachnids, the size of a horse, with pincers and poisonous\nstingers. Found in drylands and caverns. Highly aggressive, normally\nattack on sight.</li>\n<li>  Immobilizes its victims with the claws, and then attack with the\nsting.</li>\n<li>  Critical Damage: The sting&#39;s poison instantly kills the target.</li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Scorpion, Giant",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "pIU7uqPjbivZDP8E",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "WpG8LNkKzCe4us6B",
+      "name": "Chiteneous Skin",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 600000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.XUSozi5cljs4LWmf"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "uqqwLgngY3frfluE",
+      "name": "Claws*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "2d6k",
+        "numberOfUses": 0
+      },
+      "sort": 700000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "Gmx9bAMe5wf3Gf19",
+      "name": "Sting*",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d8",
+        "numberOfUses": 0
+      },
+      "sort": 800000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

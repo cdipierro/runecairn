@@ -1,0 +1,19 @@
+{
+  "_id": "KjaB6t6A9T23nPZg",
+  "name": "Phase Anchor",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Binds an extraplanar creature to your will until it performs a task specific task, after which they must pass a WIL save to escape (good luck).</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

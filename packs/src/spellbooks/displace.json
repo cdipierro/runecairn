@@ -1,0 +1,17 @@
+{
+  "name": "Displace",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An object appears to be up to 15ft from its actual position.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "b4bRVJ6YVNj8vKjh"
+}

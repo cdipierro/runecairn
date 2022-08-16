@@ -1,0 +1,20 @@
+{
+  "name": "Staff",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1,
+    "damageFormula": "1d6",
+    "bulky": false,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/staff.webp",
+  "effects": [],
+  "_id": "fZ5pC0Yo00zfz6xO"
+}

@@ -1,0 +1,66 @@
+{
+  "_id": "IYGXEpIK4zp5JmT8",
+  "name": "Boggart",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 3,
+      "max": 3
+    },
+    "abilities": {
+      "STR": {
+        "value": 4,
+        "max": 4
+      },
+      "DEX": {
+        "value": 17,
+        "max": 17
+      },
+      "WIL": {
+        "value": 13,
+        "max": 13
+      }
+    },
+    "description": "<ul>\n<li>A wild, hairy trickster that takes pleasure in being a minor nuisance.<br></li>\n<li>Prizes relics and shiny trinkets above all else but unwilling to trade for coin.<br></li>\n<li>Boggarts have names that describe their true nature. Knowing their true name allows one to control a Boggart.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Boggart",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "IYGXEpIK4zp5JmT8",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [],
+  "effects": []
+}

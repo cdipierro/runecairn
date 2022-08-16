@@ -1,0 +1,19 @@
+{
+  "_id": "8dF5ZyZxuMnCPj7P",
+  "name": "Burnishing Bubble",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target is enclosed by an impenetrable sphere that rolls along the ground, unless they pass a DEX save.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

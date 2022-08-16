@@ -1,0 +1,19 @@
+{
+  "_id": "dhcgkwttcumhY5u0",
+  "name": "Sonic Shattering",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A sonic wave causes 1d6 STR loss to susceptible objects or crystalline creatures, ignoring armor.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

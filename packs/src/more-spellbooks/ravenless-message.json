@@ -1,0 +1,19 @@
+{
+  "_id": "RburYKkSIvmjcRvh",
+  "name": "Ravenless Message",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>You send a short message 1 mile that anyone along its path can hear.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

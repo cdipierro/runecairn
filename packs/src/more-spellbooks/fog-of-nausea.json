@@ -1,0 +1,19 @@
+{
+  "_id": "FpjbuLfLW7sKlUr3",
+  "name": "Fog of Nausea",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A cloud of nauseating vapors pours out from the Spellbook's pages. Anyone nearby makes a STR save or vomit uncontrollably.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

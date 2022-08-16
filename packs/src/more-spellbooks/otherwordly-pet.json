@@ -1,0 +1,19 @@
+{
+  "_id": "r9O9qoEbbE6CPqhh",
+  "name": "Otherwordly Pet",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Summons an unintelligent extraplanar creature up to the size of a small dog. It holds no loyalty towards you or your allies.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Long Sword",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 2,
+    "damageFormula": "1d10",
+    "bulky": true,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/two-handed-sword.webp",
+  "effects": [],
+  "_id": "guIdahhZ813WVHLy"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Read Mind",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You can hear the surface thoughts of nearby creatures.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "in1K4LWnHlbNKx52"
+}

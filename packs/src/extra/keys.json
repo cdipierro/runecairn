@@ -1,0 +1,20 @@
+{
+  "name": "Keys",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 0,
+    "armor": 0,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/extra/keys.webp",
+  "effects": [],
+  "_id": "Uh78RdfLAcwbqeqT"
+}

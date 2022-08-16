@@ -1,0 +1,19 @@
+{
+  "_id": "ETCrAqpQ4x2wwNCa",
+  "name": "Librarian's Trap",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Deals 1d4+2 STR loss when read.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

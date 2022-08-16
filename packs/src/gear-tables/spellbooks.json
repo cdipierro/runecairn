@@ -1,0 +1,1717 @@
+{
+  "name": "Spellbooks",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Spellbooks Folder.",
+  "results": [
+    {
+      "text": "Raise Dead",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "fHSlO3MvChqezJ5E",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "njdquo1awz32kdpm",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "Control Weather",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "sMqZFHrOjIDMlCfT",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "ouljglxxffef90io",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Hypnotize",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "xb7IezaRAw6xcqLF",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "r1u5b3e4s4fczgsp",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    },
+    {
+      "text": "Masquerade",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "i3cliovdEoTalc2C",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false,
+      "_id": "0xp3rz8se8spzg9c",
+      "flags": {},
+      "rangeL": 4,
+      "rangeH": 4
+    },
+    {
+      "text": "Miniaturize",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "yxEbFWIIaYmz18Qs",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false,
+      "_id": "5fkpspo3vgwqngri",
+      "flags": {},
+      "rangeL": 5,
+      "rangeH": 5
+    },
+    {
+      "text": "Mirror Image",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "virzq8aPpzzi4tcP",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false,
+      "_id": "oivkkg2uv5ibdpwj",
+      "flags": {},
+      "rangeL": 6,
+      "rangeH": 6
+    },
+    {
+      "text": "Pit",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "b5KIxakLP6pSbSP1",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false,
+      "_id": "x0v57p4odpna1c09",
+      "flags": {},
+      "rangeL": 7,
+      "rangeH": 7
+    },
+    {
+      "text": "Shuffle",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "vH1xFm0PCpQ5NBRe",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false,
+      "_id": "urdzf20kx4efce3u",
+      "flags": {},
+      "rangeL": 8,
+      "rangeH": 8
+    },
+    {
+      "text": "Earthquake",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "FClirNCJgs0l3Scc",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false,
+      "_id": "o3wh9cp6rld5y83x",
+      "flags": {},
+      "rangeL": 9,
+      "rangeH": 9
+    },
+    {
+      "text": "Illuminate",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "7Su1Q2y5g22rzYZ4",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false,
+      "_id": "i28m5yyjolmeubvd",
+      "flags": {},
+      "rangeL": 10,
+      "rangeH": 10
+    },
+    {
+      "text": "Scry",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ZcahoYMnLmK9tg37",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false,
+      "_id": "irvzumbjpg2lhhg6",
+      "flags": {},
+      "rangeL": 11,
+      "rangeH": 11
+    },
+    {
+      "text": "Sort",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "oX5lXwEuWNZvGUGz",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false,
+      "_id": "o4dp6m5aiveqmued",
+      "flags": {},
+      "rangeL": 12,
+      "rangeH": 12
+    },
+    {
+      "text": "Ooze Form",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "mq0fUSRg4RtzOekb",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false,
+      "_id": "9hz8joq7j9r9m9ib",
+      "flags": {},
+      "rangeL": 13,
+      "rangeH": 13
+    },
+    {
+      "text": "Animate Object",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "cF25ZQ9heLK5vK1Q",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false,
+      "_id": "gbhdqdpixuvp0mm2",
+      "flags": {},
+      "rangeL": 14,
+      "rangeH": 14
+    },
+    {
+      "text": "Command",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ZHy3d3Z2LsLGRzbV",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false,
+      "_id": "8obzxuuu5wdk9wyc",
+      "flags": {},
+      "rangeL": 15,
+      "rangeH": 15
+    },
+    {
+      "text": "Telekinesis",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "gE3XjQgOPfvvzmz3",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false,
+      "_id": "9i5w4wp9ou94cdbn",
+      "flags": {},
+      "rangeL": 16,
+      "rangeH": 16
+    },
+    {
+      "text": "X-Ray Vision",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "B99HToFYpNhgToku",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false,
+      "_id": "k273xc2xqy858nmq",
+      "flags": {},
+      "rangeL": 17,
+      "rangeH": 17
+    },
+    {
+      "text": "Hatred",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "JpAmN1EMxAVvqPGZ",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false,
+      "_id": "rzddsje4bdh59683",
+      "flags": {},
+      "rangeL": 18,
+      "rangeH": 18
+    },
+    {
+      "text": "Disassemble",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "51FB518AlR90ITdc",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false,
+      "_id": "xbsfku593ck5t1ab",
+      "flags": {},
+      "rangeL": 19,
+      "rangeH": 19
+    },
+    {
+      "text": "Detect Magic",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "7x6KuaWk4zTDP2Rg",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false,
+      "_id": "d4xgm3lq1ygfxvyh",
+      "flags": {},
+      "rangeL": 20,
+      "rangeH": 20
+    },
+    {
+      "text": "Control Plants",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Wmu9qqos8VlmrxWa",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        21,
+        21
+      ],
+      "drawn": false,
+      "_id": "ikw82ob2oir3uujq",
+      "flags": {},
+      "rangeL": 21,
+      "rangeH": 21
+    },
+    {
+      "text": "Invisible Tether",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "z47Ya3ah9WlC48TT",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        22,
+        22
+      ],
+      "drawn": false,
+      "_id": "swmqzhqbqffaeoaz",
+      "flags": {},
+      "rangeL": 22,
+      "rangeH": 22
+    },
+    {
+      "text": "Cure Wounds",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "t5V7BHozlN07AgXx",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        23,
+        23
+      ],
+      "drawn": false,
+      "_id": "eqs8ulhcgwm7l431",
+      "flags": {},
+      "rangeL": 23,
+      "rangeH": 23
+    },
+    {
+      "text": "Beast Form",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "q9SLXweIlEO668tI",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        24,
+        24
+      ],
+      "drawn": false,
+      "_id": "jkrkccxb0rbfdr27",
+      "flags": {},
+      "rangeL": 24,
+      "rangeH": 24
+    },
+    {
+      "text": "Widget",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "s3ZmzpBDkk124nua",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        25,
+        25
+      ],
+      "drawn": false,
+      "_id": "3van0do54d5g72d3",
+      "flags": {},
+      "rangeL": 25,
+      "rangeH": 25
+    },
+    {
+      "text": "Sleep",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "zXoVCs3A46LJIR4T",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        26,
+        26
+      ],
+      "drawn": false,
+      "_id": "mr7k7x4exysfzhlq",
+      "flags": {},
+      "rangeL": 26,
+      "rangeH": 26
+    },
+    {
+      "text": "Bait Flower",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "bcFul3ct2ih4ZAhE",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        27,
+        27
+      ],
+      "drawn": false,
+      "_id": "vm0i3sl4bglxks5e",
+      "flags": {},
+      "rangeL": 27,
+      "rangeH": 27
+    },
+    {
+      "text": "Web",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "5S3rQUIlScQuW9fL",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        28,
+        28
+      ],
+      "drawn": false,
+      "_id": "gre9p2g2lomefep8",
+      "flags": {},
+      "rangeL": 28,
+      "rangeH": 28
+    },
+    {
+      "text": "Fog Cloud",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "OudnGbGdx5rU25QV",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        29,
+        29
+      ],
+      "drawn": false,
+      "_id": "v5rkod0fvamke3th",
+      "flags": {},
+      "rangeL": 29,
+      "rangeH": 29
+    },
+    {
+      "text": "Hover",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Zzm1Uso0TmK53nDW",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        30,
+        30
+      ],
+      "drawn": false,
+      "_id": "9qdukoxjuslxjwnh",
+      "flags": {},
+      "rangeL": 30,
+      "rangeH": 30
+    },
+    {
+      "text": "Liquid Air",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "hl2FAa6EjUlZlCGV",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        31,
+        31
+      ],
+      "drawn": false,
+      "_id": "s9zihvz6avqqioot",
+      "flags": {},
+      "rangeL": 31,
+      "rangeH": 31
+    },
+    {
+      "text": "Multiarm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "RXtuGRIySJs5cOda",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        32,
+        32
+      ],
+      "drawn": false,
+      "_id": "nvhwx9qk70d2nx10",
+      "flags": {},
+      "rangeL": 32,
+      "rangeH": 32
+    },
+    {
+      "text": "Raise Spirit",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "1GCmyL5sZyt0Ps50",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        33,
+        33
+      ],
+      "drawn": false,
+      "_id": "d6w6cgnj4wdzga1w",
+      "flags": {},
+      "rangeL": 33,
+      "rangeH": 33
+    },
+    {
+      "text": "Objectify",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "YtWpUXH1JWAqdH5y",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        34,
+        34
+      ],
+      "drawn": false,
+      "_id": "2w0zeg5r0wpktgbe",
+      "flags": {},
+      "rangeL": 34,
+      "rangeH": 34
+    },
+    {
+      "text": "Target Lure",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "v4TiTYqVU4MmVGmx",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        35,
+        35
+      ],
+      "drawn": false,
+      "_id": "gbqswwitm4fqg0cg",
+      "flags": {},
+      "rangeL": 35,
+      "rangeH": 35
+    },
+    {
+      "text": "Spectacle",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LjCDth8slaZVy7XP",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        36,
+        36
+      ],
+      "drawn": false,
+      "_id": "6gnknoghhtaisb3s",
+      "flags": {},
+      "rangeL": 36,
+      "rangeH": 36
+    },
+    {
+      "text": "Night Sphere",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "7gvfTdKW7bJ8cejs",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        37,
+        37
+      ],
+      "drawn": false,
+      "_id": "n85snf8twff33wa0",
+      "flags": {},
+      "rangeL": 37,
+      "rangeH": 37
+    },
+    {
+      "text": "Spider Climb",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "n1RTGIrlsgCvimPX",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        38,
+        38
+      ],
+      "drawn": false,
+      "_id": "wdoqzgw6ogqip0cg",
+      "flags": {},
+      "rangeL": 38,
+      "rangeH": 38
+    },
+    {
+      "text": "Flare",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "tc7fzeV6h4djT13T",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        39,
+        39
+      ],
+      "drawn": false,
+      "_id": "tefy3h1uhte6wq1q",
+      "flags": {},
+      "rangeL": 39,
+      "rangeH": 39
+    },
+    {
+      "text": "Mirrorwalk",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "GelfEEY5uj7xSmQ7",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        40,
+        40
+      ],
+      "drawn": false,
+      "_id": "hduldtb1bz994n7u",
+      "flags": {},
+      "rangeL": 40,
+      "rangeH": 40
+    },
+    {
+      "text": "Vision",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "evugzpbJFAQDQAGF",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        41,
+        41
+      ],
+      "drawn": false,
+      "_id": "arwi3nggh9wsi949",
+      "flags": {},
+      "rangeL": 41,
+      "rangeH": 41
+    },
+    {
+      "text": "Greed",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "pKoYVPWEiZy1MTWT",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        42,
+        42
+      ],
+      "drawn": false,
+      "_id": "fj16xp4vphxin4ub",
+      "flags": {},
+      "rangeL": 42,
+      "rangeH": 42
+    },
+    {
+      "text": "Attract",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "EKdkjgu2O5fjEZRV",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        43,
+        43
+      ],
+      "drawn": false,
+      "_id": "1qcs97pw7486j5q3",
+      "flags": {},
+      "rangeL": 43,
+      "rangeH": 43
+    },
+    {
+      "text": "Gate",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "BWk4DjBbPColjkvO",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        44,
+        44
+      ],
+      "drawn": false,
+      "_id": "xzxvu2ezrxiloiyp",
+      "flags": {},
+      "rangeL": 44,
+      "rangeH": 44
+    },
+    {
+      "text": "Summon Idol",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "w0PDqZCv0SV2F9Tq",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        45,
+        45
+      ],
+      "drawn": false,
+      "_id": "t8bsd1r036f82v9u",
+      "flags": {},
+      "rangeL": 45,
+      "rangeH": 45
+    },
+    {
+      "text": "Disguise",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "mG1cFyZsS2ZHwVx7",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        46,
+        46
+      ],
+      "drawn": false,
+      "_id": "583zby270afuldql",
+      "flags": {},
+      "rangeL": 46,
+      "rangeH": 46
+    },
+    {
+      "text": "Babble",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Y0pWwRbyRtiOA9GO",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        47,
+        47
+      ],
+      "drawn": false,
+      "_id": "n89vslcz3dyh93ll",
+      "flags": {},
+      "rangeL": 47,
+      "rangeH": 47
+    },
+    {
+      "text": "Adhere",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "SZkGYxdSTY2FPMVK",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        48,
+        48
+      ],
+      "drawn": false,
+      "_id": "wyg6m1t8pdkt6c04",
+      "flags": {},
+      "rangeL": 48,
+      "rangeH": 48
+    },
+    {
+      "text": "Telepathy",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LyBCggJmVutVT6bW",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        49,
+        49
+      ],
+      "drawn": false,
+      "_id": "j5u3juia9jyjk1j0",
+      "flags": {},
+      "rangeL": 49,
+      "rangeH": 49
+    },
+    {
+      "text": "Magic Dampener",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "xlM28MDAnHhH36ZI",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        50,
+        50
+      ],
+      "drawn": false,
+      "_id": "cueb4o5olndppnc9",
+      "flags": {},
+      "rangeL": 50,
+      "rangeH": 50
+    },
+    {
+      "text": "Deafen",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "cNBT9jfXi3r8bTo1",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        51,
+        51
+      ],
+      "drawn": false,
+      "_id": "vp6tioqnf69fw879",
+      "flags": {},
+      "rangeL": 51,
+      "rangeH": 51
+    },
+    {
+      "text": "Auditory Illusion",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "vudvLgqf8mUhQCsq",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        52,
+        52
+      ],
+      "drawn": false,
+      "_id": "snhy1ipyl46x1bxm",
+      "flags": {},
+      "rangeL": 52,
+      "rangeH": 52
+    },
+    {
+      "text": "Phobia",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "OlcITAHxhapAKx9s",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        53,
+        53
+      ],
+      "drawn": false,
+      "_id": "d2h6n1a1qz00pab9",
+      "flags": {},
+      "rangeL": 53,
+      "rangeH": 53
+    },
+    {
+      "text": "Anthropomorphize",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2k6Z7CQZTgFHTbcn",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        54,
+        54
+      ],
+      "drawn": false,
+      "_id": "5x4pfjzclgf41nxd",
+      "flags": {},
+      "rangeL": 54,
+      "rangeH": 54
+    },
+    {
+      "text": "Arcane Eye",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PR50i944m45O9vw1",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        55,
+        55
+      ],
+      "drawn": false,
+      "_id": "j3vdtixvouk101pt",
+      "flags": {},
+      "rangeL": 55,
+      "rangeH": 55
+    },
+    {
+      "text": "Displace",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "0Fyrk9XtKauXwIX9",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        56,
+        56
+      ],
+      "drawn": false,
+      "_id": "7l4js0bdmo6d7iny",
+      "flags": {},
+      "rangeL": 56,
+      "rangeH": 56
+    },
+    {
+      "text": "Swarm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "UNuHI2UZqQDt59Vf",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        57,
+        57
+      ],
+      "drawn": false,
+      "_id": "wtjb9vk85fhd9drb",
+      "flags": {},
+      "rangeL": 57,
+      "rangeH": 57
+    },
+    {
+      "text": "Sense",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "77OEECbbmP4oc5PQ",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        58,
+        58
+      ],
+      "drawn": false,
+      "_id": "lpbz4qn42slkqu9j",
+      "flags": {},
+      "rangeL": 58,
+      "rangeH": 58
+    },
+    {
+      "text": "Time Control",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "6lp8CZBdbyhzmnss",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        59,
+        59
+      ],
+      "drawn": false,
+      "_id": "xh4e54bh3fnf4el4",
+      "flags": {},
+      "rangeL": 59,
+      "rangeH": 59
+    },
+    {
+      "text": "Elasticity",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Z2WX5Ew040yCI87K",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        60,
+        60
+      ],
+      "drawn": false,
+      "_id": "440206j4ipwpuk5f",
+      "flags": {},
+      "rangeL": 60,
+      "rangeH": 60
+    },
+    {
+      "text": "Gravity Shift",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "ePctOMgXFtw4wRda",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        61,
+        61
+      ],
+      "drawn": false,
+      "_id": "5cfgzn9ggl3jhigh",
+      "flags": {},
+      "rangeL": 61,
+      "rangeH": 61
+    },
+    {
+      "text": "Comprehend",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "KafRExmyu9Rc1WTR",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        62,
+        62
+      ],
+      "drawn": false,
+      "_id": "eskz5pfrpb91qyji",
+      "flags": {},
+      "rangeL": 62,
+      "rangeH": 62
+    },
+    {
+      "text": "Body Swap",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "LzbAJcsPF5jjpLtt",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        63,
+        63
+      ],
+      "drawn": false,
+      "_id": "qlu4v7bmcfk1iyxc",
+      "flags": {},
+      "rangeL": 63,
+      "rangeH": 63
+    },
+    {
+      "text": "Push/Pull",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "R12GJrR4nQo34SxJ",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        64,
+        64
+      ],
+      "drawn": false,
+      "_id": "7h9isohadtxgtz1x",
+      "flags": {},
+      "rangeL": 64,
+      "rangeH": 64
+    },
+    {
+      "text": "Sniff",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "EgMUGacHzU8tnSt9",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        65,
+        65
+      ],
+      "drawn": false,
+      "_id": "1sfvnmsyz7l1ctj9",
+      "flags": {},
+      "rangeL": 65,
+      "rangeH": 65
+    },
+    {
+      "text": "Slick",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "FOM2PNcl0SbCVLyk",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        66,
+        66
+      ],
+      "drawn": false,
+      "_id": "05vy0bo5n2vn275z",
+      "flags": {},
+      "rangeL": 66,
+      "rangeH": 66
+    },
+    {
+      "text": "Frenzy",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "apVD5sK0254MJLef",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        67,
+        67
+      ],
+      "drawn": false,
+      "_id": "33l34kufhmkrdoj6",
+      "flags": {},
+      "rangeL": 67,
+      "rangeH": 67
+    },
+    {
+      "text": "Manse",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "mJvvOm6MfmRCkbi7",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        68,
+        68
+      ],
+      "drawn": false,
+      "_id": "6aya4x3siiksa30s",
+      "flags": {},
+      "rangeL": 68,
+      "rangeH": 68
+    },
+    {
+      "text": "Primal Surge",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "pcxJPSxrYuQ899wX",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        69,
+        69
+      ],
+      "drawn": false,
+      "_id": "a8udonipd3miey8e",
+      "flags": {},
+      "rangeL": 69,
+      "rangeH": 69
+    },
+    {
+      "text": "Pacify",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Fv5u5Z10jmdKOJBg",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        70,
+        70
+      ],
+      "drawn": false,
+      "_id": "bd8gc0uop6j0pndh",
+      "flags": {},
+      "rangeL": 70,
+      "rangeH": 70
+    },
+    {
+      "text": "Upwell",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "L1FREihTm1hHIDiJ",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        71,
+        71
+      ],
+      "drawn": false,
+      "_id": "gzlf7yiddbsw9f48",
+      "flags": {},
+      "rangeL": 71,
+      "rangeH": 71
+    },
+    {
+      "text": "Read Mind",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "8ee3cptxJkQuH0HN",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        72,
+        72
+      ],
+      "drawn": false,
+      "_id": "iagqjgajr0fpnoir",
+      "flags": {},
+      "rangeL": 72,
+      "rangeH": 72
+    },
+    {
+      "text": "Shroud",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "it4mFuZfHQoxsEGO",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        73,
+        73
+      ],
+      "drawn": false,
+      "_id": "0uqmklvd6mvms6h3",
+      "flags": {},
+      "rangeL": 73,
+      "rangeH": 73
+    },
+    {
+      "text": "Repel",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "RPJ5MwszLr3YXGFU",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        74,
+        74
+      ],
+      "drawn": false,
+      "_id": "vfl6yzlbjn53l5mi",
+      "flags": {},
+      "rangeL": 74,
+      "rangeH": 74
+    },
+    {
+      "text": "Sculpt Elements",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "tPhbzX6YMlLfPRax",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        75,
+        75
+      ],
+      "drawn": false,
+      "_id": "jsh5c8yabkmef4es",
+      "flags": {},
+      "rangeL": 75,
+      "rangeH": 75
+    },
+    {
+      "text": "Anchor",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "raoAM3w432ZX5khb",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        76,
+        76
+      ],
+      "drawn": false,
+      "_id": "1sf4e08yssbsfd2c",
+      "flags": {},
+      "rangeL": 76,
+      "rangeH": 76
+    },
+    {
+      "text": "Astral Prison",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "HF8hqERub7eVpuG2",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        77,
+        77
+      ],
+      "drawn": false,
+      "_id": "7k94y8u6kfguldoy",
+      "flags": {},
+      "rangeL": 77,
+      "rangeH": 77
+    },
+    {
+      "text": "Wizard Mark",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "qR8VJJnT7pi1DIJ0",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        78,
+        78
+      ],
+      "drawn": false,
+      "_id": "pxk9hbhfc4eqkisy",
+      "flags": {},
+      "rangeL": 78,
+      "rangeH": 78
+    },
+    {
+      "text": "Icy Touch",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "DmoFxQp95cJ0HRei",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        79,
+        79
+      ],
+      "drawn": false,
+      "_id": "ydrd99p27e1c9k02",
+      "flags": {},
+      "rangeL": 79,
+      "rangeH": 79
+    },
+    {
+      "text": "Elemental Wall",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "5f7EZ9QmbnVh9Jlm",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        80,
+        80
+      ],
+      "drawn": false,
+      "_id": "l6akclia8ld3vd0p",
+      "flags": {},
+      "rangeL": 80,
+      "rangeH": 80
+    },
+    {
+      "text": "Hear Whispers",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "2PJa54GcgxEaXX0D",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        81,
+        81
+      ],
+      "drawn": false,
+      "_id": "zqtjfpv1c6jlmn5g",
+      "flags": {},
+      "rangeL": 81,
+      "rangeH": 81
+    },
+    {
+      "text": "Marble Craze",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "CeSDhMgIJPL3Zt54",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        82,
+        82
+      ],
+      "drawn": false,
+      "_id": "z5mobwb30wq8ju8g",
+      "flags": {},
+      "rangeL": 82,
+      "rangeH": 82
+    },
+    {
+      "text": "Haste",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "7F4ARFRySqAeCZ8H",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        83,
+        83
+      ],
+      "drawn": false,
+      "_id": "2a0sntz01txpygcm",
+      "flags": {},
+      "rangeL": 83,
+      "rangeH": 83
+    },
+    {
+      "text": "Knock",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "A89xpw3RKcwqKxuk",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        84,
+        84
+      ],
+      "drawn": false,
+      "_id": "fjmwshh37rmmzxja",
+      "flags": {},
+      "rangeL": 84,
+      "rangeH": 84
+    },
+    {
+      "text": "Summon Cube",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "RJWcZ9hClmJjDe4M",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        85,
+        85
+      ],
+      "drawn": false,
+      "_id": "y0jhslvs74nc2ity",
+      "flags": {},
+      "rangeL": 85,
+      "rangeH": 85
+    },
+    {
+      "text": "Thicket",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "fg7xd8EqvEXIHMFe",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        86,
+        86
+      ],
+      "drawn": false,
+      "_id": "cz9nevemfn8cotys",
+      "flags": {},
+      "rangeL": 86,
+      "rangeH": 86
+    },
+    {
+      "text": "True Sight",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "vq3B1DtUIPwIzvv5",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        87,
+        87
+      ],
+      "drawn": false,
+      "_id": "w067o0jowcmxbfgo",
+      "flags": {},
+      "rangeL": 87,
+      "rangeH": 87
+    },
+    {
+      "text": "Befuddle",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Wz7jNcqcvXcJUc75",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        88,
+        88
+      ],
+      "drawn": false,
+      "_id": "khnh65t2p8h5k2qx",
+      "flags": {},
+      "rangeL": 88,
+      "rangeH": 88
+    },
+    {
+      "text": "Filch",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "nvwnmKRbwOqbaKSC",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        89,
+        89
+      ],
+      "drawn": false,
+      "_id": "lqkh4yp1qamuewzy",
+      "flags": {},
+      "rangeL": 89,
+      "rangeH": 89
+    },
+    {
+      "text": "Charm",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "bZGvShAzmhdT2Maw",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        90,
+        90
+      ],
+      "drawn": false,
+      "_id": "5jojcy4vvq6xocbi",
+      "flags": {},
+      "rangeL": 90,
+      "rangeH": 90
+    },
+    {
+      "text": "Snail Knight",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "BX4p21J9rS0elbrq",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        91,
+        91
+      ],
+      "drawn": false,
+      "_id": "ctk4j8aanydw128y",
+      "flags": {},
+      "rangeL": 91,
+      "rangeH": 91
+    },
+    {
+      "text": "Leap",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "E1kx7e1FaBOswloW",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        92,
+        92
+      ],
+      "drawn": false,
+      "_id": "c19p3vjo8wvhzkxj",
+      "flags": {},
+      "rangeL": 92,
+      "rangeH": 92
+    },
+    {
+      "text": "Smoke Form",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "XeNqO4rMNnSw6R7m",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        93,
+        93
+      ],
+      "drawn": false,
+      "_id": "r5bccpp1o3tl4pm7",
+      "flags": {},
+      "rangeL": 93,
+      "rangeH": 93
+    },
+    {
+      "text": "Ward",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "BcKaxhRZ7IGwGsPh",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        94,
+        94
+      ],
+      "drawn": false,
+      "_id": "zhomm3lyvzgu3d6i",
+      "flags": {},
+      "rangeL": 94,
+      "rangeH": 94
+    },
+    {
+      "text": "Identify Owner",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PkL38Ip5jQ2Mwy4Q",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        95,
+        95
+      ],
+      "drawn": false,
+      "_id": "wmt2n4wqrzwfqo3t",
+      "flags": {},
+      "rangeL": 95,
+      "rangeH": 95
+    },
+    {
+      "text": "Cone of Foam",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "nWHdDejd0Z31BSyS",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        96,
+        96
+      ],
+      "drawn": false,
+      "_id": "cftjuyz4yicfkqw0",
+      "flags": {},
+      "rangeL": 96,
+      "rangeH": 96
+    },
+    {
+      "text": "Spellsaw",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "DxtjqTJhKESCmUEv",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "weight": 1,
+      "range": [
+        97,
+        97
+      ],
+      "drawn": false,
+      "_id": "5uvanoq47ckz8qri",
+      "flags": {},
+      "rangeL": 97,
+      "rangeH": 97
+    },
+    {
+      "text": "Visual Illusion",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "PSTiUw4XpVd4lAl3",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+      "weight": 1,
+      "range": [
+        98,
+        98
+      ],
+      "drawn": false,
+      "_id": "vi1l3rc08mg6m7t1",
+      "flags": {},
+      "rangeL": 98,
+      "rangeH": 98
+    },
+    {
+      "text": "Missile Shield",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "qMAXG3yY2FqisU3p",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        99,
+        99
+      ],
+      "drawn": false,
+      "_id": "d0ppnc3aaacvl2f7",
+      "flags": {},
+      "rangeL": 99,
+      "rangeH": 99
+    },
+    {
+      "text": "Teleport",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "E2zSXPVfOn2kZSk1",
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+      "weight": 1,
+      "range": [
+        100,
+        100
+      ],
+      "drawn": false,
+      "_id": "bl3auzy9rre54qdy",
+      "flags": {},
+      "rangeL": 100,
+      "rangeH": 100
+    }
+  ],
+  "formula": "1d100",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "ycnFIvSK11nfWrtY"
+}

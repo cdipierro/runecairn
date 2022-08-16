@@ -1,0 +1,19 @@
+{
+  "_id": "sOPE0wSvspFSJ6WR",
+  "name": "Profane Reveal",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Target must WIL save or its attacks are impaired. Target an empty space to reveal invisible objects or creatures.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

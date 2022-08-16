@@ -1,0 +1,17 @@
+{
+  "name": "Body Swap",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>You switch bodies with a creature you touch. If one body dies, the other dies as well.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "elC1Sn9iHxqZOOSd"
+}

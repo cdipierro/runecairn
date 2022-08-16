@@ -1,0 +1,17 @@
+{
+  "name": "Repel",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>Two objects are strongly magnetically repelled from each other if they come within 10 feet.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "jOSGdLfATzx1kOzv"
+}

@@ -1,0 +1,125 @@
+{
+  "_id": "9biZr5VxSQmKlqmX",
+  "name": "Giant, Storm",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 15,
+      "max": 15
+    },
+    "abilities": {
+      "STR": {
+        "value": 20,
+        "max": 20
+      },
+      "DEX": {
+        "value": 14,
+        "max": 14
+      },
+      "WIL": {
+        "value": 18,
+        "max": 18
+      }
+    },
+    "description": "<ul>\n<li>22’ tall humanoids with bronze-hued skin and light-colored hair. Live in mountain peaks and deep waters.<br></li>\n<li>Unharmed by lightning, can summon storms at their will.<br></li>\n<li>Can summon lightning bolts to attack nearby enemies for d12 damage.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Giant, Storm",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "9biZr5VxSQmKlqmX",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "zc8o5evMNJGtr6DO",
+      "name": "Giant Greatsword",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 3,
+        "armor": 0,
+        "damageFormula": "2d10k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "1RnTyYFvLuJGQD7X",
+      "name": "Chainmail",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 5,
+        "armor": 2,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 300000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.XUSozi5cljs4LWmf"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/chain-mail.webp",
+      "effects": []
+    },
+    {
+      "_id": "cPVPyFY5SKNOUCu9",
+      "name": "Lightning Bolts",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 0,
+        "armor": 0,
+        "damageFormula": "d12",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

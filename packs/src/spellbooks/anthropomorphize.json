@@ -1,0 +1,17 @@
+{
+  "name": "Anthropomorphize",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>An animal either gains human intelligence or human appearance for one day.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "ZaqFlB0jRfbT3kYR"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "Bait Flower",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A plant sprouts from the ground that emanates the smell of decaying flesh.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free5.webp",
+  "effects": [],
+  "_id": "IFXMal2VK1g4IM19"
+}

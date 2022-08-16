@@ -1,0 +1,84 @@
+{
+  "_id": "c5KSe2iQoJFeQgAi",
+  "name": "Vampire",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 9,
+      "max": 9
+    },
+    "abilities": {
+      "STR": {
+        "value": 12,
+        "max": 12
+      },
+      "DEX": {
+        "value": 12,
+        "max": 12
+      },
+      "WIL": {
+        "value": 16,
+        "max": 16
+      }
+    },
+    "description": "<ul>\n<li>  Charming, undead creatures that drink the blood of mortals. Act at\nnight and sleep in a coffin during the day. Can shape change to the\nform of a giant bat.</li>\n<li>  Regeneration: A damaged vampire gains 3hp at the start of each\nround, as long as it is alive. If killed, becomes a cloud of gas and\nretreats to its coffin, reforming at the next nightfall. Can only be\nkilled if exposed to sunlight or if the coffin is destroyed.</li>\n<li>  Critical Damage: The Vampire drains the victim&#39;s essence (d12 WIL\ndamage). At 0 WIL, the victim is killed and becomes a vampire.</li>\n</ul>\n",
+    "armor": 1
+  },
+  "sort": 100001,
+  "flags": {},
+  "token": {
+    "flags": {},
+    "name": "Vampire",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "c5KSe2iQoJFeQgAi",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "MEBQpk3DSpYiDcvq",
+      "name": "Bite",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "d10",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

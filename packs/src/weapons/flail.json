@@ -1,0 +1,20 @@
+{
+  "name": "Flail",
+  "permission": {
+    "default": 0
+  },
+  "type": "weapon",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1,
+    "damageFormula": "1d8",
+    "bulky": false,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/weapons/flail.webp",
+  "effects": [],
+  "_id": "aaJtV09Zt0hKS2bt"
+}

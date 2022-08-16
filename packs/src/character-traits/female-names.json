@@ -1,0 +1,295 @@
+{
+  "name": "Female Names",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "7wFi8ADjCHbSzJVK",
+      "flags": {},
+      "type": 0,
+      "text": "Morgwen",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tjx7vO4esrNM3KeU",
+      "flags": {},
+      "type": 0,
+      "text": "Moralil",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "JIRzCKRDarqHcuxh",
+      "flags": {},
+      "type": 0,
+      "text": "Wenain",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LDeqDclM7SX3fWnL",
+      "flags": {},
+      "type": 0,
+      "text": "Yslen",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5uVfoLHnxJiNGZJr",
+      "flags": {},
+      "type": 0,
+      "text": "Esme",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "OjIT7ou8g2UsxrPg",
+      "flags": {},
+      "type": 0,
+      "text": "Drelil",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "7kGMdP2kijBs19kY",
+      "flags": {},
+      "type": 0,
+      "text": "Thegwin",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "HhZrZeM7PRDHNhsr",
+      "flags": {},
+      "type": 0,
+      "text": "Breagan",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "D4fHF1z65CK1SEzb",
+      "flags": {},
+      "type": 0,
+      "text": "Lirathil",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "eAf6uwywY6CPI2zn",
+      "flags": {},
+      "type": 0,
+      "text": "Agune",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "IKPwjDawyiQsTCjN",
+      "flags": {},
+      "type": 0,
+      "text": "Lirann",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "EBtUoWdMF2HY50LF",
+      "flags": {},
+      "type": 0,
+      "text": "Lisabeth",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "XE9fR2oSgEnIUHn9",
+      "flags": {},
+      "type": 0,
+      "text": "Henaine",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "W0RAqNTG2ORtp9eq",
+      "flags": {},
+      "type": 0,
+      "text": "Beatrice",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "2PyhYwUTJHBPB5Lw",
+      "flags": {},
+      "type": 0,
+      "text": "Wenlan",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "DgtHNVS7a8WeisRV",
+      "flags": {},
+      "type": 0,
+      "text": "Elgile",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "yIxuWBbKDpuQr14z",
+      "flags": {},
+      "type": 0,
+      "text": "Cannora",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Trhcou68jr6B788s",
+      "flags": {},
+      "type": 0,
+      "text": "Ygwal",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "L23Qj7VmMLY4BRgZ",
+      "flags": {},
+      "type": 0,
+      "text": "Theune",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vSl3nrRiXEqTyiGd",
+      "flags": {},
+      "type": 0,
+      "text": "Griya",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "OZtlZ9uMzzbtlOj2"
+}

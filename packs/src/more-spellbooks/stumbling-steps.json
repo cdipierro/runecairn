@@ -1,0 +1,19 @@
+{
+  "_id": "WaiSKSqWvtcoOudU",
+  "name": "Stumbling Steps",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>A target you touch becomes deprived and loses 1 STR.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

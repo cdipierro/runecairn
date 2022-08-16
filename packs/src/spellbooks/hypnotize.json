@@ -1,0 +1,17 @@
+{
+  "name": "Hypnotize",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A creature enters a trance and will truthfully answer one yes or no questions you ask it.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "1Cfjn1LJi24GGpf7"
+}

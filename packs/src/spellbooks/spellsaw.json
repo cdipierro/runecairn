@@ -1,0 +1,17 @@
+{
+  "name": "Spellsaw",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A whirling blade flies from your chest, clearing any plant material in its way. It is otherwise harmless.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "xYkfHEFDy7Ogbu2N"
+}

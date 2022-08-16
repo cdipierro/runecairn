@@ -1,0 +1,20 @@
+{
+  "name": "Air Bladder",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": 0,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/air-bladder.webp",
+  "effects": [],
+  "_id": "jQmTzjFJbXoJXvFY"
+}

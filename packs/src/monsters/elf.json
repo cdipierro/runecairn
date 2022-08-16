@@ -1,0 +1,173 @@
+{
+  "_id": "QDWpC77DB1L8JHm4",
+  "name": "Elf",
+  "permission": {
+    "default": 0
+  },
+  "type": "npc",
+  "data": {
+    "hp": {
+      "value": 4,
+      "max": 4
+    },
+    "abilities": {
+      "STR": {
+        "value": 8,
+        "max": 8
+      },
+      "DEX": {
+        "value": 14,
+        "max": 14
+      },
+      "WIL": {
+        "value": 14,
+        "max": 14
+      }
+    },
+    "description": "<ul>\n<li>Slender, long-lived, fey humanoids with pointed ears. Live in harmony with nature, adapting to it instead of conquering.<br></li>\n<li>Highly resistant to charming and mind-controlling effects.<br></li>\n</ul>\n",
+    "armor": null
+  },
+  "sort": 100001,
+  "flags": {},
+  "img": "icons/svg/mystery-man.svg",
+  "token": {
+    "flags": {},
+    "name": "Elf",
+    "displayName": 0,
+    "img": "icons/svg/mystery-man.svg",
+    "tint": null,
+    "width": 1,
+    "height": 1,
+    "scale": 1,
+    "lockRotation": false,
+    "rotation": 0,
+    "vision": false,
+    "dimSight": 0,
+    "brightSight": 0,
+    "dimLight": 0,
+    "brightLight": 0,
+    "sightAngle": 360,
+    "lightAngle": 360,
+    "lightAlpha": 1,
+    "lightAnimation": {
+      "speed": 5,
+      "intensity": 5
+    },
+    "actorId": "QDWpC77DB1L8JHm4",
+    "actorLink": false,
+    "disposition": -1,
+    "displayBars": 0,
+    "bar1": {},
+    "bar2": {},
+    "randomImg": false
+  },
+  "items": [
+    {
+      "_id": "XErgVaLxMe6NAJrr",
+      "name": "Shortswords",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": 0,
+        "damageFormula": "2d6k",
+        "numberOfUses": 0
+      },
+      "sort": 100000,
+      "flags": {},
+      "img": "icons/svg/mystery-man.svg",
+      "effects": []
+    },
+    {
+      "_id": "pyggdnQG8itSoRTs",
+      "name": "Longbow",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 2,
+        "armor": null,
+        "damageFormula": "1d8",
+        "numberOfUses": 0
+      },
+      "sort": 1400000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.ZtxtYyErOFOUIxpS"
+        }
+      },
+      "img": "systems/runecairn/tokens/weapons/long-bow.webp",
+      "effects": []
+    },
+    {
+      "_id": "noASs3O7mBgX6acC",
+      "name": "Charm",
+      "type": "item",
+      "data": {
+        "description": "<p>A creature you can see treats you as a friend.</p>",
+        "quantity": 1,
+        "equipped": false,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 1400001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.e2bqe6cDAE8DZPPm"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+      "effects": []
+    },
+    {
+      "_id": "lo7sj18uxQerg15E",
+      "name": "Detect Magic",
+      "type": "item",
+      "data": {
+        "description": "<p>You can see or hear nearby magical auras.</p>",
+        "quantity": 1,
+        "equipped": false,
+        "slots": 1,
+        "armor": 0,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 2200001,
+      "flags": {
+        "core": {
+          "sourceId": "Item.RG7HUsA0OrkZDLxM"
+        }
+      },
+      "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+      "effects": []
+    },
+    {
+      "_id": "TgLC8TYavSf2RX4A",
+      "name": "Gambeson",
+      "type": "item",
+      "data": {
+        "description": "",
+        "quantity": 1,
+        "equipped": true,
+        "slots": 1,
+        "armor": 1,
+        "damageFormula": "",
+        "numberOfUses": 0
+      },
+      "sort": 400000,
+      "flags": {
+        "core": {
+          "sourceId": "Item.WzodO3q615BFIi2X"
+        }
+      },
+      "img": "systems/runecairn/tokens/armor/leather.webp",
+      "effects": []
+    }
+  ],
+  "effects": []
+}

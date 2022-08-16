@@ -1,0 +1,19 @@
+{
+  "name": "Banded Mail",
+  "permission": {
+    "default": 0
+  },
+  "type": "armor",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 2,
+    "bulky": false,
+    "armor": 2
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/armor/banded-mail.webp",
+  "effects": [],
+  "_id": "oJvG3p1QGUcsfA4s"
+}

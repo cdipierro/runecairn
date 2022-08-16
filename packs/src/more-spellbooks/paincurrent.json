@@ -1,0 +1,19 @@
+{
+  "_id": "wSxmrwpJA7UdWEjI",
+  "name": "Paincurrent",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>An arc of electricity passes from your fingertips to a target you touch. They take 1d8 damage (1d12 if wearing metal armor).</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

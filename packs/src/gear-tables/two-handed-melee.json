@@ -1,0 +1,68 @@
+{
+  "name": "Two-Handed Melee",
+  "img": "icons/svg/d20-grey.svg",
+  "description": "A random table created from the contents of the Two-Handed Melee Folder.",
+  "results": [
+    {
+      "text": "Halberd",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "x8wKPItCaxXXhlNw",
+      "img": "systems/runecairn/tokens/weapons/halberd.webp",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false,
+      "_id": "2hnhcfpewksxo9pr",
+      "flags": {},
+      "rangeL": 1,
+      "rangeH": 1
+    },
+    {
+      "text": "War Hammer",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "xHusrDVHFPsExid0",
+      "img": "systems/runecairn/tokens/weapons/war-hammer.webp",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false,
+      "_id": "zi2kzuodiemzfdet",
+      "flags": {},
+      "rangeL": 2,
+      "rangeH": 2
+    },
+    {
+      "text": "Long Sword",
+      "type": 1,
+      "collection": "Item",
+      "resultId": "Cjb59RAVx6Mmh5Oe",
+      "img": "systems/runecairn/tokens/weapons/two-handed-sword.webp",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false,
+      "_id": "qys2yl7objm0fwpc",
+      "flags": {},
+      "rangeL": 3,
+      "rangeH": 3
+    }
+  ],
+  "formula": "1d3",
+  "replacement": true,
+  "displayRoll": true,
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "_id": "h0f8Jgd8IH77f0sU"
+}

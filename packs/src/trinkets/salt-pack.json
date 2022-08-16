@@ -1,0 +1,22 @@
+{
+  "_id": "fFsvWCI0bd4iZ4Qq",
+  "name": "Salt Pack",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": 0,
+    "damageFormula": "",
+    "numberOfUses": 0,
+    "bulky": false,
+    "blast": false
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/salt-pack.webp",
+  "effects": []
+}

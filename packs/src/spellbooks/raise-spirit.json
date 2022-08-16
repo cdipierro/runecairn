@@ -1,0 +1,17 @@
+{
+  "name": "Raise Spirit",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>The spirit of a dead body manifests and will answer 1 question.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free3.webp",
+  "effects": [],
+  "_id": "KzexNICZj0qB2rgn"
+}

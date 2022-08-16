@@ -1,0 +1,20 @@
+{
+  "_id": "wyA7rhVrQutXxs2d",
+  "name": "Sponge",
+  "permission": {
+    "default": 0
+  },
+  "type": "item",
+  "data": {
+    "description": "",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1,
+    "armor": null,
+    "damageFormula": "",
+    "numberOfUses": 0
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/gear/stone-tablet.webp",
+  "effects": []
+}

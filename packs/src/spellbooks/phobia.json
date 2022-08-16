@@ -1,0 +1,17 @@
+{
+  "name": "Phobia",
+  "permission": {
+    "default": 0
+  },
+  "type": "spellbook",
+  "data": {
+    "description": "<p>A nearby creature becomes terrified of an object of your choice.</p>",
+    "quantity": 1,
+    "equipped": true,
+    "slots": 1
+  },
+  "flags": {},
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free4.webp",
+  "effects": [],
+  "_id": "ZLG9pgRNBEPE8dID"
+}

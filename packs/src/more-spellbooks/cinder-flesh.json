@@ -1,0 +1,19 @@
+{
+  "_id": "FNTrpT9jYgaj0NCU",
+  "name": "Cinder Flesh",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Energy beams burn enemies (1d10 blast damage) in a straight line.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}

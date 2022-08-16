@@ -1,0 +1,295 @@
+{
+  "name": "Background",
+  "permission": {
+    "default": 0
+  },
+  "flags": {},
+  "img": "icons/svg/d20-grey.svg",
+  "description": "",
+  "results": [
+    {
+      "_id": "lBc479S1U6a7hX63",
+      "flags": {},
+      "type": 0,
+      "text": "Alchemist",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        1,
+        1
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vJh4eG9vieXV539Z",
+      "flags": {},
+      "type": 0,
+      "text": "Beggar",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        2,
+        2
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Vqw53rrM9SfsawhI",
+      "flags": {},
+      "type": 0,
+      "text": "Butcher",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        3,
+        3
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "g11JOTjar7dIFrox",
+      "flags": {},
+      "type": 0,
+      "text": "Burglar",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        4,
+        4
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "gilG5C5bUeoRrXaB",
+      "flags": {},
+      "type": 0,
+      "text": "Charlatan",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        5,
+        5
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "3IpJELBugacofk2Y",
+      "flags": {},
+      "type": 0,
+      "text": "Cleric",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        6,
+        6
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "Ff6GQqKmJlud4YI6",
+      "flags": {},
+      "type": 0,
+      "text": "Cook",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        7,
+        7
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "iy7oYaATR3G7v1A2",
+      "flags": {},
+      "type": 0,
+      "text": "Cultist",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        8,
+        8
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "vIKkT09MEUq7dDIK",
+      "flags": {},
+      "type": 0,
+      "text": "Gambler",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        9,
+        9
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "LVUZT0xDRhATWUlw",
+      "flags": {},
+      "type": 0,
+      "text": "Herbalist",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        10,
+        10
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YEjKr43fUOQDaDqE",
+      "flags": {},
+      "type": 0,
+      "text": "Magician",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        11,
+        11
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "tf0GOJaLsRQEZQEq",
+      "flags": {},
+      "type": 0,
+      "text": "Mariner",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        12,
+        12
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "edJnPpzwcSgdbo8P",
+      "flags": {},
+      "type": 0,
+      "text": "Mercenary",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        13,
+        13
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "jhleM1xNFRssqD9M",
+      "flags": {},
+      "type": 0,
+      "text": "Merchant",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        14,
+        14
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "J0eCn5YphyNjwbND",
+      "flags": {},
+      "type": 0,
+      "text": "Outlaw",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        15,
+        15
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "YfMMqfOg2jETQEfA",
+      "flags": {},
+      "type": 0,
+      "text": "Performer",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        16,
+        16
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5dcyo3hVuD8ZnNrn",
+      "flags": {},
+      "type": 0,
+      "text": "Pickpocket",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        17,
+        17
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "ggcsMZCPTOte1Cv3",
+      "flags": {},
+      "type": 0,
+      "text": "Smuggler",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        18,
+        18
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "BLZzc59NPHakTjft",
+      "flags": {},
+      "type": 0,
+      "text": "Student",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        19,
+        19
+      ],
+      "drawn": false
+    },
+    {
+      "_id": "5PUZIr7OOceo0ecf",
+      "flags": {},
+      "type": 0,
+      "text": "Ranger",
+      "img": "icons/svg/d20-black.svg",
+      "resultId": "",
+      "weight": 1,
+      "range": [
+        20,
+        20
+      ],
+      "drawn": false
+    }
+  ],
+  "formula": "1d20",
+  "replacement": true,
+  "displayRoll": true,
+  "_id": "4A2pOzXkVeeklMHF"
+}

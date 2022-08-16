@@ -1,0 +1,19 @@
+{
+  "_id": "N1jJ1Q1Tmyq3XBNR",
+  "name": "Curse of the Sightless",
+  "type": "spellbook",
+  "img": "systems/runecairn/tokens/spellbooks/spellbook-free2.webp",
+  "data": {
+    "description": "<p>Anyone within eyesight must make a WIL save or be blinded.</p>",
+    "quantity": 1,
+    "equipped": false,
+    "slots": 1
+  },
+  "effects": [],
+  "folder": null,
+  "sort": 0,
+  "permission": {
+    "default": 0
+  },
+  "flags": {}
+}
