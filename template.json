@@ -35,6 +35,10 @@
             "max": 10
           }
         },
+        "speed": {
+          "value": 10,
+          "max": 10
+        },
         "def": {
           "value": 10,
           "max": 10
@@ -49,8 +53,18 @@
       "templates": ["base", "actorBase"],
       "background": "",
       "biography": "",
+      "cursed": false,
       "deprived": false,
+      "fatigue": {
+        "value": 10,
+        "max": 10
+      },
       "gold": 0,
+      "mead": {
+        "value": 10,
+        "max": 10
+      },
+      "souls": 0,
       "startingClass": ""
     },
 
@@ -67,7 +81,16 @@
     }
   },
   "Item": {
-    "types": ["item", "weapon", "armor", "spellbook"],
+    "types": [
+      "class",
+      "item",
+      "key",
+      "weapon",
+      "armor",
+      "spellbook",
+      "skills",
+      "spells"
+    ],
     "templates": {
       "universal": {
         "description": "",
@@ -76,6 +99,14 @@
         "slots": 1
       }
     },
+    "class": {
+      "templates": ["base", "universal"],
+      "identifier": "",
+      "items": [],
+      "keyItem": "",
+      "skills": {},
+      "spells": {}
+    },
     "item": {
       "templates": ["base", "universal"],
       "armor": 0,
@@ -83,6 +114,7 @@
       "equipped": false,
       "numberOfUses": 0
     },
+    "key": { "templates": ["base", "universal"] },
     "weapon": {
       "templates": ["base", "universal"],
       "damageFormula": "",
@@ -92,6 +124,11 @@
       "templates": ["base", "universal"],
       "armor": 1
     },
-    "spellbook": { "templates": ["base", "universal"] }
+    "skills": { "templates": ["base", "universal"] },
+    "spellbook": { "templates": ["base", "universal"] },
+    "spells": {
+      "templates": ["base", "universal"],
+      "school": ""
+    }
   }
 }

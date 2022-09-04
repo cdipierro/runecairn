@@ -7,12 +7,36 @@
             <input class="name-input" type="text" name="name" value="{{actor.name}}" placeholder="Name" />
             <input class="background-input" type="text" name="data.background" value="{{data.data.background}}"
                 placeholder="Background" />
-            <div class="resource-counter hp-counter">
-                <label for="data.hp.value">HP</label>
+            <input class="class-input" type="text" name="data.startingClass" value="{{data.data.startingClass}}"
+                placeholder="Starting Class" />
+            <div class="resource-counter resilience">
+                <label for="data.data.attributes.RES.value">Resilience</label>
                 <div class="resource-input-wrapper">
-                    <input type="text" name="data.hp.value" value="{{data.data.hp.value}}" data-dtype="Number" />
-                    <span> / </span>
-                    <input type="text" name="data.hp.max" value="{{data.data.hp.max}}" data-dtype="Number" />
+                    <input type="text" name="data.data.attributes.RES.value" value="{{data.data.attributes.RES.value}}" data-dtype="Number" />
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.data.attributes.VIG.value">Vigour</label>
+                <div class="stacked-input-wrapper">
+                    <span>{{data.data.attributes.VIG.value}}</span>
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.data.attributes.VIT.value">Vitality</label>
+                <div class="stacked-input-wrapper">
+                    <span>{{data.data.attributes.VIT.value}}</span>
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.data.speed.value">Speed</label>
+                <div class="stacked-input-wrapper">
+                    <span>{{data.data.speed.value}}</span>
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.def">Def</label>
+                <div class="stacked-input-wrapper">
+                    <span>{{data.data.def}}</span>
                 </div>
             </div>
             <div class="resource-counter long-counter deprived-counter">
@@ -20,6 +44,13 @@
                 <div class="resource-input-wrapper">
                     <input type="checkbox" {{checked data.data.deprived}} name="data.deprived"
                         value="{{data.data.deprived}}" data-dtype="Boolean" />
+                </div>
+            </div>
+            <div class="resource-counter long-counter deprived-counter">
+                <label for="data.cursed">Cursed</label>
+                <div class="resource-input-wrapper">
+                    <input type="checkbox" {{checked data.data.cursed}} name="data.cursed"
+                        value="{{data.data.cursed}}" data-dtype="Boolean" />
                 </div>
             </div>
         </div>
@@ -48,9 +79,21 @@
         <!-- Armor and gold -->
         <div class="character-sheet-section-others">
             <div class="resource-counter stacked-counter">
-                <label for="data.def">Def</label>
+                <label for="data.fatigue.value">Fatigue</label>
                 <div class="stacked-input-wrapper">
-                    <span>{{data.data.def}}</span>
+                    <input type="text" name="data.fatigue.value value="{{data.data.fatigue.value}}" data-dtype="Number" />
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.souls">Souls</label>
+                <div class="stacked-input-wrapper">
+                    <input type="text" name="data.souls value="{{data.data.souls}}" data-dtype="Number" />
+                </div>
+            </div>
+            <div class="resource-counter stacked-counter">
+                <label for="data.mead.value">Mead</label>
+                <div class="stacked-input-wrapper">
+                    <input type="text" name="data.mead.value value="{{data.data.mead.value}}" data-dtype="Number" />
                 </div>
             </div>
             <div class="resource-counter stacked-counter">
